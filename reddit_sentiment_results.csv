@@ -1,0 +1,1285 @@
+title,score,comments,created,url,selftext,text,clean_text,sentiment_scores,sentiment,sentiment_label
+data siens,4112,72,1607370595.0,https://dslntlv9vhjr4.cloudfront.net/posts_images/EcY6g2neQEaIi.png,,data siens ,data siens,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+The pain and excitement,3907,175,1625518640.0,https://i.redd.it/yqnunwryjg971.jpg,,The pain and excitement ,the pain and excitement,"{'neg': 0.388, 'neu': 0.235, 'pos': 0.376, 'compound': -0.0258}",-0.0258,Neutral
+Shout Out to All the Mediocre Data Scientists Out There,3622,267,1594352731.0,https://www.reddit.com/r/datascience/comments/hohvgq/shout_out_to_all_the_mediocre_data_scientists_out/,"I've been lurking on this sub for a while now and all too often I see posts from people claiming they feel inadequate and then they go on to describe their stupid impressive background and experience. That's great and all but I'd like to move the spotlight to the rest of us for just a minute. Cheers to my fellow mediocre data scientists who don't work at FAANG companies, aren't pursing a PhD, don't publish papers, haven't won Kaggle competitions, and don't spend every waking hour improving their portfolio.  Even though we're nothing special, we still deserve some appreciation every once in a while.
+
+/rant I'll hand it back over to the smart people now","Shout Out to All the Mediocre Data Scientists Out There I've been lurking on this sub for a while now and all too often I see posts from people claiming they feel inadequate and then they go on to describe their stupid impressive background and experience. That's great and all but I'd like to move the spotlight to the rest of us for just a minute. Cheers to my fellow mediocre data scientists who don't work at FAANG companies, aren't pursing a PhD, don't publish papers, haven't won Kaggle competitions, and don't spend every waking hour improving their portfolio.  Even though we're nothing special, we still deserve some appreciation every once in a while.
+
+/rant I'll hand it back over to the smart people now",shout out to all the mediocre data scientists out there ive been lurking on this sub for a while now and all too often i see posts from people claiming they feel inadequate and then they go on to describe their stupid impressive background and experience thats great and all but id like to move the spotlight to the rest of us for just a minute cheers to my fellow mediocre data scientists who dont work at faang companies arent pursing a phd dont publish papers havent won kaggle competitions and dont spend every waking hour improving their portfolio even though were nothing special we still deserve some appreciation every once in a while rant ill hand it back over to the smart people now,"{'neg': 0.125, 'neu': 0.69, 'pos': 0.185, 'compound': 0.9025}",0.9025,Positive
+Let's keep this on...,3603,121,1663139475.0,https://i.redd.it/k102dyo0yrn91.jpg,,Let's keep this on... ,lets keep this on,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"Guys, we’ve been doing it wrong this whole time",3468,386,1647837277.0,https://i.imgur.com/TAex5zG.jpg,,"Guys, we’ve been doing it wrong this whole time ",guys weve been doing it wrong this whole time,"{'neg': 0.279, 'neu': 0.721, 'pos': 0.0, 'compound': -0.4767}",-0.4767,Negative
+It’s never too early,3411,67,1583808989.0,https://i.redd.it/0c9louclfrl41.jpg,,It’s never too early ,its never too early,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+how about that data integrity yo,3325,121,1626100778.0,https://i.redd.it/x5hj821ilsa71.jpg,,how about that data integrity yo ,how about that data integrity yo,"{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.3818}",0.3818,Positive
+Didn’t have to chart this one 🔥,3319,58,1663632440.0,https://i.redd.it/s0s0x37zzto91.jpg,,Didn’t have to chart this one 🔥 ,didnt have to chart this one,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Wait until you see the data in hospitals...,3265,105,1660578282.0,https://i.redd.it/uwrv5tu2ewh91.png,,Wait until you see the data in hospitals... ,wait until you see the data in hospitals,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Imposter Syndrome is a problem for me and I think this is the main contributor,3209,133,1575560765.0,https://i.redd.it/e292g50m4u241.jpg,,Imposter Syndrome is a problem for me and I think this is the main contributor ,imposter syndrome is a problem for me and i think this is the main contributor,"{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.4019}",-0.4019,Negative
+How to avoid 1/2-assed data analysis,3185,71,1725257884.0,https://i.redd.it/l6zd3zsa9cmd1.jpeg,,How to avoid 1/2-assed data analysis ,how to avoid assed data analysis,"{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}",-0.296,Negative
+DS at a glance,2918,92,1573402538.0,https://i.redd.it/mdlja2h1wvx31.jpg,,DS at a glance ,ds at a glance,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Remember it always.,2866,53,1630358182.0,https://i.redd.it/kgomawneakk71.jpg,,Remember it always. ,remember it always,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Favourite piece of code 🤣,2836,103,1726135600.0,https://i.redd.it/jqvbe1ycrcod1.jpeg,What's your favourite one line code.,Favourite piece of code 🤣 What's your favourite one line code.,favourite piece of code whats your favourite one line code,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"I created a four-page Data Science Cheatsheet to assist with exam reviews, interview prep, and anything in-between",2773,102,1613271603.0,https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/,"Hey guys, I’ve been doing a lot of preparation for interviews lately, and thought I’d compile a document of theories, algorithms, and models I found helpful during this time. Originally, I was just keeping notes in a Google Doc, but figured I could create something more permanent and aesthetic.
+
+It covers topics (some more in-depth than others), such as:
+
+* Distributions
+* Linear and Logistic Regression
+* Decision Trees and Random Forest
+* SVM
+* KNN
+* Clustering
+* Boosting
+* Dimension Reduction (PCA, LDA, Factor Analysis)
+* NLP
+* Neural Networks
+* Recommender Systems
+* Reinforcement Learning
+* Anomaly Detection
+
+The four-page Data Science Cheatsheet can be found [here](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf), and I hope it's helpful to those looking to review or brush up on machine learning concepts. Feel free to leave any suggestions and star/save the PDF for reference.
+
+Cheers!
+
+Github Repo: [https://github.com/aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+
+Edit - Thanks for the awards! However, I don't have much need for internet points and much rather we help out local charities in need :) Some highly rated Covid relief projects listed [here](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=7779).","I created a four-page Data Science Cheatsheet to assist with exam reviews, interview prep, and anything in-between Hey guys, I’ve been doing a lot of preparation for interviews lately, and thought I’d compile a document of theories, algorithms, and models I found helpful during this time. Originally, I was just keeping notes in a Google Doc, but figured I could create something more permanent and aesthetic.
+
+It covers topics (some more in-depth than others), such as:
+
+* Distributions
+* Linear and Logistic Regression
+* Decision Trees and Random Forest
+* SVM
+* KNN
+* Clustering
+* Boosting
+* Dimension Reduction (PCA, LDA, Factor Analysis)
+* NLP
+* Neural Networks
+* Recommender Systems
+* Reinforcement Learning
+* Anomaly Detection
+
+The four-page Data Science Cheatsheet can be found [here](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf), and I hope it's helpful to those looking to review or brush up on machine learning concepts. Feel free to leave any suggestions and star/save the PDF for reference.
+
+Cheers!
+
+Github Repo: [https://github.com/aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+
+Edit - Thanks for the awards! However, I don't have much need for internet points and much rather we help out local charities in need :) Some highly rated Covid relief projects listed [here](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=7779).",i created a fourpage data science cheatsheet to assist with exam reviews interview prep and anything inbetween hey guys ive been doing a lot of preparation for interviews lately and thought id compile a document of theories algorithms and models i found helpful during this time originally i was just keeping notes in a google doc but figured i could create something more permanent and aesthetic it covers topics some more indepth than others such as distributions linear and logistic regression decision trees and random forest svm knn clustering boosting dimension reduction pca lda factor analysis nlp neural networks recommender systems reinforcement learning anomaly detection the fourpage data science cheatsheet can be found here and i hope its helpful to those looking to review or brush up on machine learning concepts feel free to leave any suggestions and starsave the pdf for reference cheers github repo edit thanks for the awards however i dont have much need for internet points and much rather we help out local charities in need some highly rated covid relief projects listed here,"{'neg': 0.006, 'neu': 0.767, 'pos': 0.227, 'compound': 0.9929}",0.9929,Positive
+I want to be free of this pain.,2684,87,1652718187.0,https://i.redd.it/o89y3eq36vz81.png,,I want to be free of this pain. ,i want to be free of this pain,"{'neg': 0.277, 'neu': 0.336, 'pos': 0.387, 'compound': 0.0772}",0.0772,Positive
+True that,2663,218,1578135230.0,https://i.redd.it/vh0ey1fgsm841.jpg,,True that ,true that,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",0.4215,Positive
+"As a hiring manager - this, this right here",2641,135,1674830901.0,https://i.redd.it/fk95v2ghilea1.png,,"As a hiring manager - this, this right here ",as a hiring manager this this right here,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Imposter Detected,2577,121,1657554677.0,https://i.imgur.com/pr09q68.png,,Imposter Detected ,imposter detected,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Graph of graph analysis,2573,41,1585543660.0,https://i.redd.it/m99e3svtpqp41.jpg,,Graph of graph analysis ,graph of graph analysis,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Selling my own damn data (cartoon by artist Jeremy Nguyen),2562,46,1637589084.0,https://i.redd.it/i0iafeelj5181.jpg,,Selling my own damn data (cartoon by artist Jeremy Nguyen) ,selling my own damn data cartoon by artist jeremy nguyen,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.4019}",-0.4019,Negative
+Me trying to switch careers after getting a Master’s degree in Data Science,2492,272,1649092885.0,https://i.redd.it/ohprn1taqjr81.jpg,,Me trying to switch careers after getting a Master’s degree in Data Science ,me trying to switch careers after getting a masters degree in data science,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+When the boss doesn’t like your charts,2343,73,1576432616.0,https://i.redd.it/cyg4vip06u441.jpg,,When the boss doesn’t like your charts ,when the boss doesnt like your charts,"{'neg': 0.26, 'neu': 0.74, 'pos': 0.0, 'compound': -0.2755}",-0.2755,Negative
+Data Science in 2022,2335,139,1662991336.0,https://i.imgur.com/60Vnj0X.png,,Data Science in 2022 ,data science in,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Stop asking data scientist riddles in interviews!,2329,266,1636631533.0,https://i.redd.it/jjtjirwagyy71.jpg,,Stop asking data scientist riddles in interviews! ,stop asking data scientist riddles in interviews,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.296}",-0.296,Negative
+Feeling starting out,2256,88,1647880596.0,https://i.redd.it/pilz06fjlro81.jpg,,Feeling starting out ,feeling starting out,"{'neg': 0.0, 'neu': 0.571, 'pos': 0.429, 'compound': 0.128}",0.128,Positive
+"For any python & pandas users out there, here's a free tool to visualize your dataframes",2247,190,1582224233.0,https://v.redd.it/2u0skf49j4i41,,"For any python & pandas users out there, here's a free tool to visualize your dataframes ",for any python pandas users out there heres a free tool to visualize your dataframes,"{'neg': 0.0, 'neu': 0.798, 'pos': 0.202, 'compound': 0.5106}",0.5106,Positive
+What Companies think AI looks like vs What Actually it is,2188,67,1640535235.0,https://i.redd.it/mu7cm5ztvw781.jpg,,What Companies think AI looks like vs What Actually it is ,what companies think ai looks like vs what actually it is,"{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}",0.3612,Positive
+Pre screening tests be like,2173,115,1672125307.0,https://i.redd.it/ntqdnbd1nf8a1.jpg,,Pre screening tests be like ,pre screening tests be like,"{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}",0.3612,Positive
+That's true,2152,131,1629089555.0,https://i.redd.it/59v75in4inh71.jpg,,That's true ,thats true,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",0.4215,Positive
+When a non-technical manager wants details behind your model.,2118,83,1653318273.0,https://i.imgur.com/0hMDEK1.jpeg,,When a non-technical manager wants details behind your model. ,when a nontechnical manager wants details behind your model,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"Happy Halloween, Pandas! 🎃🤓",2086,58,1667240441.0,https://i.redd.it/g2ukf6e2o6x91.jpg,,"Happy Halloween, Pandas! 🎃🤓 ",happy halloween pandas,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,Positive
+"It's Meme Monday, so here's a python meme for DS folks",2082,83,1587968470.0,https://i.redd.it/nklty63uzav41.png,,"It's Meme Monday, so here's a python meme for DS folks ",its meme monday so heres a python meme for ds folks,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+My Data Science Manifesto from a Self Taught Data Scientist,2054,178,1735511285.0,https://www.reddit.com/r/datascience/comments/1hp7pim/my_data_science_manifesto_from_a_self_taught_data/,"**Background**
+
+I’m a self-taught data scientist, with about 5 years of data analyst experience and now about 5 years as a Data Scientist. I’m more math minded than the average person, but I’m not special. I have a bachelor’s degree in mechanical engineering, and have worked alongside 6 data scientists, 4 of which have PHDs and the other 2 have a masters. Despite being probably, the 6th out of 7 in natural ability, I have been the 2nd most productive data scientist out of the group.
+
+
+**Gatekeeping**
+
+Every day someone on this subreddit asks some derivative of “what do I need to know to get started in ML/DS?” The answers are always smug and give some insane list of courses and topics one must master. As someone who’s been on both sides, this is attitude extremely annoying and rampart in the industry. I don’t think you can be bad at math and have no pre-requisite knowledge, and be successful, but the levels needed are greatly exaggerated. Most of the people telling you these things are just posturing due to insecurity.
+
+
+
+As a mechanical engineering student, I had at least 3 calculus courses, a linear algebra course, and a probability course, but it was 10+ years before I attempted to become a DS, and I didn’t remember much at all. This sub, and others like it, made me think I had to be an expert in all these topics and many more to even think about trying to become a data scientist. 
+
+
+
+When I started my journey, I would take coding, calculus, stats, linear algebra, etc. courses. I’d take a course, do OK in it, and move onto the next thing. However, eventually I’d get defeated because I realized I couldn’t remember much from the courses I took 3 months prior. It just felt like too much information for me to hold at a single time while working a full-time job. I never got started on actually solving problems because the internet and industry told me I needed to be an expert in all these things.
+
+
+**What you actually need**
+
+The reality is, 95% of the time you only need a basic understanding of these topics. Projects often require a deeper dive into something else, but that's a case by case basis, and you figure that out as you go.
+
+
+For calculus, you don't need to know how to integrate multivariable functions by hand. You need to know that derivatives create a function that represents the slope of the original function, and that where the derivative = 0 is a local min/max. You need to know integrals are area under the curve.
+
+
+
+For stats, you need to understand what a p value represents. You don't need to know all the different tests, and when to use them. You need to know that they exist and why you need them. When it's time to use one, just google it, and figure out which one best suits your use case.
+
+
+
+For linear algebra, you don't need to know how to solve for eigenvectors by hand, or whatever other specific things you do in that class. You need to know how to ‘read’ it. It is also helpful to know properties of linear algebra. Like the cross product of 2 vectors yields a vector perpendicular to both.
+
+
+
+For probability, you need to understand basic things, but again, just google your specific problem.
+
+
+
+You don't need to be an expert software dev. You need to write ok code, and be able to use chatGPT to help you improve it little by little.
+
+
+
+You don't need to know how to build all the algorithms by hand. A general understanding of how they work is enough in 95% of cases.
+
+
+
+Of all of those things, the only thing you absolutely NEED to get started is basic coding ability. 
+
+
+
+By far the number one technical ability needed to 'master' is understanding how to ""frame"" your problem, and how to test and evaluate and interpret performance. If you can ensure that you're accurately framing the problem and evaluating the model or alogithm, with metrics that correctly align with the use case, that's enough to start providing some real value. I often see people asking things like ""should I do this feature engineering technique for this problem?"" or “which of these algorithms will perform best?”. The answer should usually be, ""I don't know, try it, measure it, and see"". Understanding how the algorithms work can give you clues into what you should try, but at the end of the day, you should just try it and see.   
+
+
+
+Despite the posturing in the industry, very few people are actually experts in all these domains. Some people are better at talking the talk than others, but at the end of the day, you WILL have to constantly research and learn on a project by project basis. That’s what makes it fun and interesting. As you gain PRACTICAL experience, you will grow, you will learn, you will improve beyond what you could've ever imagined. Just get the basics down and get started, don't spin your wheels trying and failing to nail all these disciplines before ever applying anything.
+
+
+
+The reason I’m near the top in productivity while being near the bottom in natural and technical ability is my 5 years of experience as a data analyst at my company. During this time, I got really good at exploring my companies’ data. When you are stumped on problem, intelligently visualizing the data often reveals the solution. I’ve also had the luxury of analyzing our data from all different perspectives. I’d have assignments from marketing, product, tech support, customer service, software, firmware, and other technical teams. I understand the complete company better than the other data scientists. I’m also just aware of more ‘tips and tricks’ than anyone else.  
+
+
+
+Good domain knowledge and data exploration skills with average technical skills will outperform good technical skills with average domain knowledge and data exploration almost every time. 
+
+
+**Advice for those self taught**
+
+
+I’ve been on the hiring side of things a few times now, and the market is certainly difficult. I think it would be very difficult for someone to online course and side project themselves directly into a DS job. The side project would have to be EXTREMELY impressive to be considered. However, I think my path is repeatable.
+
+
+
+I taught myself basic SQL and Tableau and completed a few side projects. I accepted a job as a data analyst, in a medium sized (100-200 total employees) on a team where DS and DA shared the same boss. The barrier to DA is likely higher than it was ~10 years ago, but it's definitely something achievable. My advice would be to find roles that you have some sort of unique experience with, and tailor your resume to that connection. No connection is too small. For example, my DA role required working with a lot of accelerometer data. In my previous job as a test engineer, I sometimes helped set up accelerometers to record data from the tests. This experience barely helped me at all when actually on the job, but it helped my resume actually get looked at. For entry level jobs employers are looking for ANY connection, because most entry level resumes all look the same.
+
+
+The first year or two I excelled at my role as a DA. I made my boss aware that I wanted to become a DS eventually. He started to make me a small part of some DS projects, running queries, building dashboards to track performance and things like that. I was also a part of some of the meetings, so I got some insight into how certain problems were approached. 
+
+
+
+My boss made me aware that I would need to teach myself to code and machine learning. My role in the data science projects grew over time, but I was ultimately blocked from becoming a DS because I kept trying and failing to learn to code and the 25 areas of expertise reddit tells you that you need by taking MOOCs. 
+
+  
+
+Eventually, I paid up for DataQuest. I naively thought the course would teach me everything I needed to know. While you will not be proficient in anything DS upon completing, the interactive format made it easy to jump into 30-60 minutes of structured coding every day. Like a real language consistency is vital. 
+
+
+
+Once I got to the point where I could do some basic coding, I began my own side project. THIS IS THE MOST IMPORTANT THING. ONCE YOU GET THE BASELINE KNOWLEDGE, JUST GET STARTED WORKING ON THINGS. This is where the real learning began. You'll screw things up, and that's ok. Titanic problem is fine for day 1, but you really need a project of your own. I picked a project that I was interested in and had a function that I would personally use (I'm on V3 of this project and it's grown to a level that I never could've dreamed of at the time). This was crucial in ensuring that I stuck with the project, and had real investment in doing it correctly. When I didn’t know how to do something in the project, I would research it and figure it out. This is how it works in the real world.
+
+
+
+After 3 months of Dataquest and another 3 of a project (along with 4 years of being a data analyst) I convinced my boss to assign me DS project. I worked alongside another data scientist, but I owned the project, and they were mostly there for guidance, and coded some of the more complex things. I excelled at that project, and was promoted to data scientist, and began getting projects of my own, with less and less oversight. We have a very collaborative work environment, and the data scientists are truly out to help each other. We present our progress to each other often which allows us all to learn and improve. I have been promoted twice since I began DS work.
+
+
+
+I'd like to add that you can almost certainly do all this in less time than it took me. I wasted a lot of time spinning my wheels. ChatGPT is also a great resource that could also increase your learning speed. Don't blindly use it, but it's a great resource.
+
+
+**Tldr:** Sir this is Wendy’s.
+
+**Edit:** I’m not saying to never go deeper into things, I’m literally always learning. I go deeper into things all the time. Often in very niche domains, but you don't need to be a master in all things get started or even excel. Be able to understand generalities of those domains, and dig deeper when the problem calls for it. Learning a concept when you have a direct application is much more likely to stick.
+
+
+I thought it went without saying, but I’m not saying those things I listed are literally the only things you need to know about those topics, I was just giving examples of where relatively simple concepts were way more important than specifics.
+
+**Edit #2:** I'm not saying schooling is bad. Yes obviously having a masters and/or PhD is better than not. I'm directing this to those who are working a full time job who want to break into the field, but taking years getting a masters while working full time and going another 50K into debt is unrealistic","My Data Science Manifesto from a Self Taught Data Scientist **Background**
+
+I’m a self-taught data scientist, with about 5 years of data analyst experience and now about 5 years as a Data Scientist. I’m more math minded than the average person, but I’m not special. I have a bachelor’s degree in mechanical engineering, and have worked alongside 6 data scientists, 4 of which have PHDs and the other 2 have a masters. Despite being probably, the 6th out of 7 in natural ability, I have been the 2nd most productive data scientist out of the group.
+
+
+**Gatekeeping**
+
+Every day someone on this subreddit asks some derivative of “what do I need to know to get started in ML/DS?” The answers are always smug and give some insane list of courses and topics one must master. As someone who’s been on both sides, this is attitude extremely annoying and rampart in the industry. I don’t think you can be bad at math and have no pre-requisite knowledge, and be successful, but the levels needed are greatly exaggerated. Most of the people telling you these things are just posturing due to insecurity.
+
+
+
+As a mechanical engineering student, I had at least 3 calculus courses, a linear algebra course, and a probability course, but it was 10+ years before I attempted to become a DS, and I didn’t remember much at all. This sub, and others like it, made me think I had to be an expert in all these topics and many more to even think about trying to become a data scientist. 
+
+
+
+When I started my journey, I would take coding, calculus, stats, linear algebra, etc. courses. I’d take a course, do OK in it, and move onto the next thing. However, eventually I’d get defeated because I realized I couldn’t remember much from the courses I took 3 months prior. It just felt like too much information for me to hold at a single time while working a full-time job. I never got started on actually solving problems because the internet and industry told me I needed to be an expert in all these things.
+
+
+**What you actually need**
+
+The reality is, 95% of the time you only need a basic understanding of these topics. Projects often require a deeper dive into something else, but that's a case by case basis, and you figure that out as you go.
+
+
+For calculus, you don't need to know how to integrate multivariable functions by hand. You need to know that derivatives create a function that represents the slope of the original function, and that where the derivative = 0 is a local min/max. You need to know integrals are area under the curve.
+
+
+
+For stats, you need to understand what a p value represents. You don't need to know all the different tests, and when to use them. You need to know that they exist and why you need them. When it's time to use one, just google it, and figure out which one best suits your use case.
+
+
+
+For linear algebra, you don't need to know how to solve for eigenvectors by hand, or whatever other specific things you do in that class. You need to know how to ‘read’ it. It is also helpful to know properties of linear algebra. Like the cross product of 2 vectors yields a vector perpendicular to both.
+
+
+
+For probability, you need to understand basic things, but again, just google your specific problem.
+
+
+
+You don't need to be an expert software dev. You need to write ok code, and be able to use chatGPT to help you improve it little by little.
+
+
+
+You don't need to know how to build all the algorithms by hand. A general understanding of how they work is enough in 95% of cases.
+
+
+
+Of all of those things, the only thing you absolutely NEED to get started is basic coding ability. 
+
+
+
+By far the number one technical ability needed to 'master' is understanding how to ""frame"" your problem, and how to test and evaluate and interpret performance. If you can ensure that you're accurately framing the problem and evaluating the model or alogithm, with metrics that correctly align with the use case, that's enough to start providing some real value. I often see people asking things like ""should I do this feature engineering technique for this problem?"" or “which of these algorithms will perform best?”. The answer should usually be, ""I don't know, try it, measure it, and see"". Understanding how the algorithms work can give you clues into what you should try, but at the end of the day, you should just try it and see.   
+
+
+
+Despite the posturing in the industry, very few people are actually experts in all these domains. Some people are better at talking the talk than others, but at the end of the day, you WILL have to constantly research and learn on a project by project basis. That’s what makes it fun and interesting. As you gain PRACTICAL experience, you will grow, you will learn, you will improve beyond what you could've ever imagined. Just get the basics down and get started, don't spin your wheels trying and failing to nail all these disciplines before ever applying anything.
+
+
+
+The reason I’m near the top in productivity while being near the bottom in natural and technical ability is my 5 years of experience as a data analyst at my company. During this time, I got really good at exploring my companies’ data. When you are stumped on problem, intelligently visualizing the data often reveals the solution. I’ve also had the luxury of analyzing our data from all different perspectives. I’d have assignments from marketing, product, tech support, customer service, software, firmware, and other technical teams. I understand the complete company better than the other data scientists. I’m also just aware of more ‘tips and tricks’ than anyone else.  
+
+
+
+Good domain knowledge and data exploration skills with average technical skills will outperform good technical skills with average domain knowledge and data exploration almost every time. 
+
+
+**Advice for those self taught**
+
+
+I’ve been on the hiring side of things a few times now, and the market is certainly difficult. I think it would be very difficult for someone to online course and side project themselves directly into a DS job. The side project would have to be EXTREMELY impressive to be considered. However, I think my path is repeatable.
+
+
+
+I taught myself basic SQL and Tableau and completed a few side projects. I accepted a job as a data analyst, in a medium sized (100-200 total employees) on a team where DS and DA shared the same boss. The barrier to DA is likely higher than it was ~10 years ago, but it's definitely something achievable. My advice would be to find roles that you have some sort of unique experience with, and tailor your resume to that connection. No connection is too small. For example, my DA role required working with a lot of accelerometer data. In my previous job as a test engineer, I sometimes helped set up accelerometers to record data from the tests. This experience barely helped me at all when actually on the job, but it helped my resume actually get looked at. For entry level jobs employers are looking for ANY connection, because most entry level resumes all look the same.
+
+
+The first year or two I excelled at my role as a DA. I made my boss aware that I wanted to become a DS eventually. He started to make me a small part of some DS projects, running queries, building dashboards to track performance and things like that. I was also a part of some of the meetings, so I got some insight into how certain problems were approached. 
+
+
+
+My boss made me aware that I would need to teach myself to code and machine learning. My role in the data science projects grew over time, but I was ultimately blocked from becoming a DS because I kept trying and failing to learn to code and the 25 areas of expertise reddit tells you that you need by taking MOOCs. 
+
+  
+
+Eventually, I paid up for DataQuest. I naively thought the course would teach me everything I needed to know. While you will not be proficient in anything DS upon completing, the interactive format made it easy to jump into 30-60 minutes of structured coding every day. Like a real language consistency is vital. 
+
+
+
+Once I got to the point where I could do some basic coding, I began my own side project. THIS IS THE MOST IMPORTANT THING. ONCE YOU GET THE BASELINE KNOWLEDGE, JUST GET STARTED WORKING ON THINGS. This is where the real learning began. You'll screw things up, and that's ok. Titanic problem is fine for day 1, but you really need a project of your own. I picked a project that I was interested in and had a function that I would personally use (I'm on V3 of this project and it's grown to a level that I never could've dreamed of at the time). This was crucial in ensuring that I stuck with the project, and had real investment in doing it correctly. When I didn’t know how to do something in the project, I would research it and figure it out. This is how it works in the real world.
+
+
+
+After 3 months of Dataquest and another 3 of a project (along with 4 years of being a data analyst) I convinced my boss to assign me DS project. I worked alongside another data scientist, but I owned the project, and they were mostly there for guidance, and coded some of the more complex things. I excelled at that project, and was promoted to data scientist, and began getting projects of my own, with less and less oversight. We have a very collaborative work environment, and the data scientists are truly out to help each other. We present our progress to each other often which allows us all to learn and improve. I have been promoted twice since I began DS work.
+
+
+
+I'd like to add that you can almost certainly do all this in less time than it took me. I wasted a lot of time spinning my wheels. ChatGPT is also a great resource that could also increase your learning speed. Don't blindly use it, but it's a great resource.
+
+
+**Tldr:** Sir this is Wendy’s.
+
+**Edit:** I’m not saying to never go deeper into things, I’m literally always learning. I go deeper into things all the time. Often in very niche domains, but you don't need to be a master in all things get started or even excel. Be able to understand generalities of those domains, and dig deeper when the problem calls for it. Learning a concept when you have a direct application is much more likely to stick.
+
+
+I thought it went without saying, but I’m not saying those things I listed are literally the only things you need to know about those topics, I was just giving examples of where relatively simple concepts were way more important than specifics.
+
+**Edit #2:** I'm not saying schooling is bad. Yes obviously having a masters and/or PhD is better than not. I'm directing this to those who are working a full time job who want to break into the field, but taking years getting a masters while working full time and going another 50K into debt is unrealistic",my data science manifesto from a self taught data scientist background im a selftaught data scientist with about years of data analyst experience and now about years as a data scientist im more math minded than the average person but im not special i have a bachelors degree in mechanical engineering and have worked alongside data scientists of which have phds and the other have a masters despite being probably the th out of in natural ability i have been the nd most productive data scientist out of the group gatekeeping every day someone on this subreddit asks some derivative of what do i need to know to get started in mlds the answers are always smug and give some insane list of courses and topics one must master as someone whos been on both sides this is attitude extremely annoying and rampart in the industry i dont think you can be bad at math and have no prerequisite knowledge and be successful but the levels needed are greatly exaggerated most of the people telling you these things are just posturing due to insecurity as a mechanical engineering student i had at least calculus courses a linear algebra course and a probability course but it was years before i attempted to become a ds and i didnt remember much at all this sub and others like it made me think i had to be an expert in all these topics and many more to even think about trying to become a data scientist when i started my journey i would take coding calculus stats linear algebra etc courses id take a course do ok in it and move onto the next thing however eventually id get defeated because i realized i couldnt remember much from the courses i took months prior it just felt like too much information for me to hold at a single time while working a fulltime job i never got started on actually solving problems because the internet and industry told me i needed to be an expert in all these things what you actually need the reality is of the time you only need a basic understanding of these topics projects often require a deeper dive into something else but thats a case by case basis and you figure that out as you go for calculus you dont need to know how to integrate multivariable functions by hand you need to know that derivatives create a function that represents the slope of the original function and that where the derivative is a local minmax you need to know integrals are area under the curve for stats you need to understand what a p value represents you dont need to know all the different tests and when to use them you need to know that they exist and why you need them when its time to use one just google it and figure out which one best suits your use case for linear algebra you dont need to know how to solve for eigenvectors by hand or whatever other specific things you do in that class you need to know how to read it it is also helpful to know properties of linear algebra like the cross product of vectors yields a vector perpendicular to both for probability you need to understand basic things but again just google your specific problem you dont need to be an expert software dev you need to write ok code and be able to use chatgpt to help you improve it little by little you dont need to know how to build all the algorithms by hand a general understanding of how they work is enough in of cases of all of those things the only thing you absolutely need to get started is basic coding ability by far the number one technical ability needed to master is understanding how to frame your problem and how to test and evaluate and interpret performance if you can ensure that youre accurately framing the problem and evaluating the model or alogithm with metrics that correctly align with the use case thats enough to start providing some real value i often see people asking things like should i do this feature engineering technique for this problem or which of these algorithms will perform best the answer should usually be i dont know try it measure it and see understanding how the algorithms work can give you clues into what you should try but at the end of the day you should just try it and see despite the posturing in the industry very few people are actually experts in all these domains some people are better at talking the talk than others but at the end of the day you will have to constantly research and learn on a project by project basis thats what makes it fun and interesting as you gain practical experience you will grow you will learn you will improve beyond what you couldve ever imagined just get the basics down and get started dont spin your wheels trying and failing to nail all these disciplines before ever applying anything the reason im near the top in productivity while being near the bottom in natural and technical ability is my years of experience as a data analyst at my company during this time i got really good at exploring my companies data when you are stumped on problem intelligently visualizing the data often reveals the solution ive also had the luxury of analyzing our data from all different perspectives id have assignments from marketing product tech support customer service software firmware and other technical teams i understand the complete company better than the other data scientists im also just aware of more tips and tricks than anyone else good domain knowledge and data exploration skills with average technical skills will outperform good technical skills with average domain knowledge and data exploration almost every time advice for those self taught ive been on the hiring side of things a few times now and the market is certainly difficult i think it would be very difficult for someone to online course and side project themselves directly into a ds job the side project would have to be extremely impressive to be considered however i think my path is repeatable i taught myself basic sql and tableau and completed a few side projects i accepted a job as a data analyst in a medium sized total employees on a team where ds and da shared the same boss the barrier to da is likely higher than it was years ago but its definitely something achievable my advice would be to find roles that you have some sort of unique experience with and tailor your resume to that connection no connection is too small for example my da role required working with a lot of accelerometer data in my previous job as a test engineer i sometimes helped set up accelerometers to record data from the tests this experience barely helped me at all when actually on the job but it helped my resume actually get looked at for entry level jobs employers are looking for any connection because most entry level resumes all look the same the first year or two i excelled at my role as a da i made my boss aware that i wanted to become a ds eventually he started to make me a small part of some ds projects running queries building dashboards to track performance and things like that i was also a part of some of the meetings so i got some insight into how certain problems were approached my boss made me aware that i would need to teach myself to code and machine learning my role in the data science projects grew over time but i was ultimately blocked from becoming a ds because i kept trying and failing to learn to code and the areas of expertise reddit tells you that you need by taking moocs eventually i paid up for dataquest i naively thought the course would teach me everything i needed to know while you will not be proficient in anything ds upon completing the interactive format made it easy to jump into minutes of structured coding every day like a real language consistency is vital once i got to the point where i could do some basic coding i began my own side project this is the most important thing once you get the baseline knowledge just get started working on things this is where the real learning began youll screw things up and thats ok titanic problem is fine for day but you really need a project of your own i picked a project that i was interested in and had a function that i would personally use im on v of this project and its grown to a level that i never couldve dreamed of at the time this was crucial in ensuring that i stuck with the project and had real investment in doing it correctly when i didnt know how to do something in the project i would research it and figure it out this is how it works in the real world after months of dataquest and another of a project along with years of being a data analyst i convinced my boss to assign me ds project i worked alongside another data scientist but i owned the project and they were mostly there for guidance and coded some of the more complex things i excelled at that project and was promoted to data scientist and began getting projects of my own with less and less oversight we have a very collaborative work environment and the data scientists are truly out to help each other we present our progress to each other often which allows us all to learn and improve i have been promoted twice since i began ds work id like to add that you can almost certainly do all this in less time than it took me i wasted a lot of time spinning my wheels chatgpt is also a great resource that could also increase your learning speed dont blindly use it but its a great resource tldr sir this is wendys edit im not saying to never go deeper into things im literally always learning i go deeper into things all the time often in very niche domains but you dont need to be a master in all things get started or even excel be able to understand generalities of those domains and dig deeper when the problem calls for it learning a concept when you have a direct application is much more likely to stick i thought it went without saying but im not saying those things i listed are literally the only things you need to know about those topics i was just giving examples of where relatively simple concepts were way more important than specifics edit im not saying schooling is bad yes obviously having a masters andor phd is better than not im directing this to those who are working a full time job who want to break into the field but taking years getting a masters while working full time and going another k into debt is unrealistic,"{'neg': 0.049, 'neu': 0.814, 'pos': 0.137, 'compound': 0.9995}",0.9995,Positive
+Fit an exponential curve to anything...,2002,88,1586157028.0,https://i.redd.it/y9u0j7ggd5r41.png,,Fit an exponential curve to anything... ,fit an exponential curve to anything,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}",0.3612,Positive
+The next time my coworkers ask what metrics I used for my model.,2009,64,1587344725.0,https://v.redd.it/ijncrmm5hvt41,,The next time my coworkers ask what metrics I used for my model. ,the next time my coworkers ask what metrics i used for my model,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+:),1991,83,1547749323.0,https://i.redd.it/2qsivs4vz0b21.jpg,,:) ,,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Data without context is noise! (With Zoom),1950,46,1648473464.0,https://i.redd.it/k2lcid5ek4q81.jpg,,Data without context is noise! (With Zoom) ,data without context is noise with zoom,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Data Engineering,1919,47,1602557381.0,https://media.makeameme.org/created/we-should-take-bdc76d06df.jpg,,Data Engineering ,data engineering,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Beware of today's data,1904,49,1577888941.0,https://i.redd.it/6mi8w52fg6841.jpg,,Beware of today's data ,beware of todays data,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+When you get your first DS role but they hit you with the mix.,1898,152,1655127515.0,https://i.imgur.com/zQCpCOl.png,,When you get your first DS role but they hit you with the mix. ,when you get your first ds role but they hit you with the mix,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+I just got offered a data science internship with Amazon. I've been lurking on the sub for 3 years and just wanted to thank the folks who put together stats/ml cheat sheets.,1897,89,1617909736.0,https://www.reddit.com/r/datascience/comments/mmzbgq/i_just_got_offered_a_data_science_internship_with/,"This sub really motivated me to take my undergraduate degree in biomathematics/statistics and turn it into a masters in data science. I use to think I wouldn't have the programing background or that I wouldn't have the technical skills people wanted. It took a lot of my moving past my imposter syndrome as a woman in stem and working on my skill set but I've gotten this far. Thank you all so much.
+
+Edit: Just came back to this post and saw all the support. For any one interested i have been applying since September to internships and have since then applied to 83 positions, reworked my resume twice, ended up making my own website for my projects just to look better on paper, and got 5 interviews at the end of March. I have gotten offers so far from every place I interviewed at and used the smaller offers to ask Amazon to give me a decision earlier, which ended up working. I only did 2 interviews with Amazon before I got my team and offer, which from reading online isn't common as they usually have a 3rd or 4th interview for interns. Its been a long process and a battle at every stage. Just 2 weeks ago I was resigned to the idea of a summer with no internship, but here we are now.","I just got offered a data science internship with Amazon. I've been lurking on the sub for 3 years and just wanted to thank the folks who put together stats/ml cheat sheets. This sub really motivated me to take my undergraduate degree in biomathematics/statistics and turn it into a masters in data science. I use to think I wouldn't have the programing background or that I wouldn't have the technical skills people wanted. It took a lot of my moving past my imposter syndrome as a woman in stem and working on my skill set but I've gotten this far. Thank you all so much.
+
+Edit: Just came back to this post and saw all the support. For any one interested i have been applying since September to internships and have since then applied to 83 positions, reworked my resume twice, ended up making my own website for my projects just to look better on paper, and got 5 interviews at the end of March. I have gotten offers so far from every place I interviewed at and used the smaller offers to ask Amazon to give me a decision earlier, which ended up working. I only did 2 interviews with Amazon before I got my team and offer, which from reading online isn't common as they usually have a 3rd or 4th interview for interns. Its been a long process and a battle at every stage. Just 2 weeks ago I was resigned to the idea of a summer with no internship, but here we are now.",i just got offered a data science internship with amazon ive been lurking on the sub for years and just wanted to thank the folks who put together statsml cheat sheets this sub really motivated me to take my undergraduate degree in biomathematicsstatistics and turn it into a masters in data science i use to think i wouldnt have the programing background or that i wouldnt have the technical skills people wanted it took a lot of my moving past my imposter syndrome as a woman in stem and working on my skill set but ive gotten this far thank you all so much edit just came back to this post and saw all the support for any one interested i have been applying since september to internships and have since then applied to positions reworked my resume twice ended up making my own website for my projects just to look better on paper and got interviews at the end of march i have gotten offers so far from every place i interviewed at and used the smaller offers to ask amazon to give me a decision earlier which ended up working i only did interviews with amazon before i got my team and offer which from reading online isnt common as they usually have a rd or th interview for interns its been a long process and a battle at every stage just weeks ago i was resigned to the idea of a summer with no internship but here we are now,"{'neg': 0.047, 'neu': 0.861, 'pos': 0.092, 'compound': 0.8909}",0.8909,Positive
+Offend a data scientist in one tweet,1882,160,1671280215.0,https://i.redd.it/t7n4hi55uh6a1.jpg,,Offend a data scientist in one tweet ,offend a data scientist in one tweet,"{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}",-0.296,Negative
+"I got 4 Data Science job offers with salaries between $100k - $150k in a single week, and I have a degree in English Literature",1858,288,1652215748.0,https://www.reddit.com/r/datascience/comments/umse6v/i_got_4_data_science_job_offers_with_salaries/,"I have 3 years experience as a Data Analyst and a certificate (not a degree) an online Data Science program. Those are pretty weak credentials, and I'm sure I'm not the only person with that kind of background that starts the job search thinking there's no chance anyone would ever hire me.
+
+I wanted to share what worked for me, just in case it can work for anybody else.
+
+Basically, it's this:
+
+**Treat the job interview like you're selling a service**
+
+What worked for me was to stop thinking of it as a job interview.
+
+Instead, imagine that you're the sales rep for a Data company answering an RFP. A client has a problem and they need a solution. You're just there to demonstrate that you can implement it.
+
+Try to figure out what problem they're trying to solve with this role before the interview begins. That might be something like: ""We have data but we don't know how to get meaning out of it"" or ""We need to re-architect our data"" or even just: ""We have a guy who does a great job, but we need two of him.""
+
+Center everything you say around the key message of: ""I know what your problem is and I know how to solve it.""
+
+When they ask you to tell them about yourself:
+
+1. Focus your answer on demonstrating that you have experience solving problems like theirs
+2. Wrap it up by saying you were interested in the job because you got the impression that they need that problem solved, and you have a lot of experience solving that problem
+3. Ask the interviewer if you're on the right about what problem they need solved
+
+It's fine if you've totally misread the company. The point is that, when you ask that question, early in the interview, you force the interviewer to explain what they want the person who takes the role to be able to do.
+
+It also switches the whole dynamic of the interview. Instead of them asking you questions, it's now about you troubleshooting that problem.
+
+Respond by:
+
+1. Asking clarifying questions about the problem they have
+2. Explaining how you would approach the problem
+3. Describing past similar projects you've worked on and how you solved them
+4. Highlighting the business impact of your solutions
+
+Doing this made a *massive* difference in my job search. I didn't hear back from any job I applied to until I tried this approach, but I heard back from everybody after I did.","I got 4 Data Science job offers with salaries between $100k - $150k in a single week, and I have a degree in English Literature I have 3 years experience as a Data Analyst and a certificate (not a degree) an online Data Science program. Those are pretty weak credentials, and I'm sure I'm not the only person with that kind of background that starts the job search thinking there's no chance anyone would ever hire me.
+
+I wanted to share what worked for me, just in case it can work for anybody else.
+
+Basically, it's this:
+
+**Treat the job interview like you're selling a service**
+
+What worked for me was to stop thinking of it as a job interview.
+
+Instead, imagine that you're the sales rep for a Data company answering an RFP. A client has a problem and they need a solution. You're just there to demonstrate that you can implement it.
+
+Try to figure out what problem they're trying to solve with this role before the interview begins. That might be something like: ""We have data but we don't know how to get meaning out of it"" or ""We need to re-architect our data"" or even just: ""We have a guy who does a great job, but we need two of him.""
+
+Center everything you say around the key message of: ""I know what your problem is and I know how to solve it.""
+
+When they ask you to tell them about yourself:
+
+1. Focus your answer on demonstrating that you have experience solving problems like theirs
+2. Wrap it up by saying you were interested in the job because you got the impression that they need that problem solved, and you have a lot of experience solving that problem
+3. Ask the interviewer if you're on the right about what problem they need solved
+
+It's fine if you've totally misread the company. The point is that, when you ask that question, early in the interview, you force the interviewer to explain what they want the person who takes the role to be able to do.
+
+It also switches the whole dynamic of the interview. Instead of them asking you questions, it's now about you troubleshooting that problem.
+
+Respond by:
+
+1. Asking clarifying questions about the problem they have
+2. Explaining how you would approach the problem
+3. Describing past similar projects you've worked on and how you solved them
+4. Highlighting the business impact of your solutions
+
+Doing this made a *massive* difference in my job search. I didn't hear back from any job I applied to until I tried this approach, but I heard back from everybody after I did.",i got data science job offers with salaries between k k in a single week and i have a degree in english literature i have years experience as a data analyst and a certificate not a degree an online data science program those are pretty weak credentials and im sure im not the only person with that kind of background that starts the job search thinking theres no chance anyone would ever hire me i wanted to share what worked for me just in case it can work for anybody else basically its this treat the job interview like youre selling a service what worked for me was to stop thinking of it as a job interview instead imagine that youre the sales rep for a data company answering an rfp a client has a problem and they need a solution youre just there to demonstrate that you can implement it try to figure out what problem theyre trying to solve with this role before the interview begins that might be something like we have data but we dont know how to get meaning out of it or we need to rearchitect our data or even just we have a guy who does a great job but we need two of him center everything you say around the key message of i know what your problem is and i know how to solve it when they ask you to tell them about yourself focus your answer on demonstrating that you have experience solving problems like theirs wrap it up by saying you were interested in the job because you got the impression that they need that problem solved and you have a lot of experience solving that problem ask the interviewer if youre on the right about what problem they need solved its fine if youve totally misread the company the point is that when you ask that question early in the interview you force the interviewer to explain what they want the person who takes the role to be able to do it also switches the whole dynamic of the interview instead of them asking you questions its now about you troubleshooting that problem respond by asking clarifying questions about the problem they have explaining how you would approach the problem describing past similar projects youve worked on and how you solved them highlighting the business impact of your solutions doing this made a massive difference in my job search i didnt hear back from any job i applied to until i tried this approach but i heard back from everybody after i did,"{'neg': 0.086, 'neu': 0.79, 'pos': 0.124, 'compound': 0.8866}",0.8866,Positive
+Thank you to the recruiters that define Data Science as building pretty visualizations and querying some,1853,123,1658158252.0,https://i.imgur.com/ETKlQcd.png,,Thank you to the recruiters that define Data Science as building pretty visualizations and querying some ,thank you to the recruiters that define data science as building pretty visualizations and querying some,"{'neg': 0.0, 'neu': 0.711, 'pos': 0.289, 'compound': 0.6908}",0.6908,Positive
+Found this,1828,42,1569614141.0,https://i.redd.it/itul8iw6z6p31.jpg,,Found this ,found this,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"You're not helping, Excel! please STOP HELPING!!!",1813,152,1719819987.0,https://i.redd.it/ccxo0ajs3v9d1.jpeg,,"You're not helping, Excel! please STOP HELPING!!! ",youre not helping excel please stop helping,"{'neg': 0.839, 'neu': 0.161, 'pos': 0.0, 'compound': -0.8135}",-0.8135,Negative
+My Guide To Writing A Killer Cover Letter,1811,148,1646856194.0,https://www.reddit.com/r/datascience/comments/tag8l5/my_guide_to_writing_a_killer_cover_letter/,"Most people think a cover letter is about themselves. This isn’t true.
+
+A cover letter is a marketing tool. Treat it like one and you’ll see it do wonders. Treat it like an autobiography and you’ll wonder why no one gets back to you.
+
+Here’s the cover letter formula that got me my current job:
+
+1. **Analyzing the job description**
+2. **Identifying what to include in your cover letter**
+3. **Why do you want to work here?**
+4. **Writing the cover letter**
+
+**Before we get started:** this is a long post (\~3000 words). If you'd rather get a free PDF copy of it, feel free to [drop your email](https://www.careerfair.io/subscribe) here and I'll be sending it next week. 
+
+**1/ Analyzing the job description**
+
+Always write a cover letter from scratch. It's better to apply for five relevant positions with a complementing cover letter than to apply for fifty positions without any background research.
+
+The best way to do this is to start by analyzing the job description.
+
+A job description is composed of two parts:
+
+1. What you’ll do
+2. What the company is looking for (i.e qualifications)
+
+First, focus on the “what you’ll do” portion. The first few bullets are the most important. And we need to make sure that they’re addressed in our cover letter. Start highlighting the ones you have experience carrying out.
+
+https://preview.redd.it/pbakyc28yem81.png?width=2600&format=png&auto=webp&s=ee3a2be51ee0c9d009f81068868ee28064271904
+
+Next, take a look at the qualifications. Note down the ones you can comfortably meet and ignore any you don’t. We also want to highlight the ‘preferred’ or ‘nice-to-have’ items listed in the job posting if you satisfy those.
+
+*Quick note: Qualifications are always negotiable and should never deter you from applying if you think you’re almost there but missing a few requirements.*
+
+https://preview.redd.it/s1yfj6n9yem81.png?width=3424&format=png&auto=webp&s=282abefe6281837a26d748131dbb9aca1daba54d
+
+Make sure to note all these skills you’ve highlighted in the job description down. We’re now ready to move onto our next step.
+
+**2/ Identifying what to include in your cover letter**
+
+Create a table with two columns. In the left column jot down the highlighted skills you identified in the above section. And now in the right column, start writing down how you can match up to the advertised qualifications.
+
+Here’s an example for my latest role. Notice how I try to use as many of the same words as the job description:
+
+https://preview.redd.it/xhalvb7byem81.png?width=3200&format=png&auto=webp&s=76992f4e46b66a259504c8fb0bcc2f1ec6fca3ab
+
+For now, just put down the qualifications without any regard for style. Also, you don’t need qualifications for all the requirements. We’re only going to use the top two anyway.
+
+Struggling to come up with qualifications? Try to ask your co-workers or peers about projects they’ve enjoyed working with you on. Keeping a [brag document](https://www.careerfair.io/reviews/howtobragatwork) can also be really helpful.
+
+And try to speak the employer’s language. So if a job description mentions “QuickBooks,” don’t just say you’ve used “accounting software”.
+
+**3/ Why do you want to work here?**
+
+You’re a great fit for the role. Now you have to convince them that you want to work there.
+
+Realize that this is just a research based question. If you do enough research, you will find information about the company that you can link back to your own interests and goals.
+
+To help you do research, ask yourself the following questions:
+
+* What is the company’s mission?
+* What problem are they trying to solve?
+* What’s the product?
+* What’s unique about this company compared to its competitors?
+* What are some policies or values that the company has that they feature on their homepage?
+* Describe any of the organization’s community engagement projects or employee development programs.
+
+A great place to find more info is to look at interviews that their founders or executives have done. Another is the company’s blog.
+
+Once you’ve done your research, list out *why* you find each answer to the above questions appealing. What is it about rockets that appeals to you? Why is a video messaging platform one you can connect with?
+
+And if you’ve been using their product, that enthusiasm will shine through. It’s not mandatory and it’s not even common, but when it does happen, you have a great reason for why you want to work at the company.
+
+*Sidenote: I'm going to release a complete guide on researching companies before the interview soon. If you'd like to read that you can* [*subscribe*](https://www.careerfair.io/subscribe) *here* *and get it when it's released.*
+
+**4/ Writing the cover letter**
+
+We’re going to use the following format for your cover letter:
+
+*(i) Who you are, what you want, and what you believe in.*
+
+*(ii) Transition*
+
+*(iii). Skill & Qualification Match*
+
+*(vi) Why do you want to work there?*
+
+*(v) Conclusion*
+
+***(i) Who you are, what you want, and what you believe in***
+
+Use the first one or two sentences to make some statements about who you are, what you want, and what you believe in. Here are some good examples:
+
+https://preview.redd.it/7tjx90ueyem81.png?width=2600&format=png&auto=webp&s=7c769a4c46e74c14d1b52b995177237b3569ba76
+
+Emphasize your strengths and also ideally mention something specific to the company.
+
+***(ii) Transition***
+
+I like to link the intro in my cover letter to the first skill-qualification match by having a summary statement and attaching it to a generic sentence:
+
+https://preview.redd.it/65imjsigyem81.png?width=2600&format=png&auto=webp&s=edfa8b0ec98b32708cca1db7b2c56c1b46b6fde5
+
+The first sentence summarizes what you will bring to the company. The second helps flow into the experiences you’re about to write about.
+
+Mine would be:
+
+*Over the last 12 months, I’ve helped my company generate over $X in revenue by leading meetings with executive leaders and also built a variety of web applications on the side.*
+
+*And now I’m excited to continue my journey by contributing and growing at Adyen. There are three things that make me the perfect fit for this position:*
+
+Here are some examples that differentiate weak and better summary statements:
+
+https://preview.redd.it/2hssbb2iyem81.png?width=3200&format=png&auto=webp&s=09585eef6003225bfc97c0cd38d5dc122af93b0a
+
+Avoid jargon and get specific. Half the words, twice the examples. Ideally with a few numbers sprinkled in.
+
+*Quick Note: The summary statement is also great to add to the top of your Linkedin bio.*
+
+***(ii) Skill & Qualification Match***
+
+Go back to your table matching your qualifications to the requirements. Pick the two most important ones.
+
+We’re going to link your qualifications to a theme. And then use that to transform your boring bullet points into exciting sentences.
+
+Here are eight common interview story themes:
+
+1. Leading People
+2. Taking initiative
+3. Affinity for challenging work
+4. Affinity for different types of work
+5. Affinity for specific work
+6. Dealing with failure
+7. Managing conflict
+8. Driven by curiosity
+
+Let's say we ended up with the below table when analyzing a specific job description.
+
+https://preview.redd.it/5zl2adfkyem81.png?width=3200&format=png&auto=webp&s=da38789ff4180a422a237027d1dd4827993f1dca
+
+And let’s take our first qualification:
+
+*Conducted Feature-Mapping and Requirements Gathering sessions with prospective and existing clients to formulate Scope and Backlog. Responsible for managing and creating backlog, writing stories and acceptance criteria for all managed projects.*
+
+Let’s figure out how we can link this to one of the interview story themes:
+
+https://preview.redd.it/mikhhw0myem81.png?width=3200&format=png&auto=webp&s=8057bf24031ebb66a10d21aac45f5f5836bf6ed8
+
+And here's another example:
+
+https://preview.redd.it/otukv2rnyem81.png?width=3200&format=png&auto=webp&s=d242ebd6f3764b64ce49d530a8a22df03ddfad97
+
+So what we’ve done here is abstracted some themes from this person’s actual qualifications.
+
+I know this isn't super scientific. More themes than just one work for most qualifications. But the goal is to help you solidify the type of story you want to tell.
+
+And now that you have your theme, you can use it to guide your body paragraphs using this format:
+
+https://preview.redd.it/hkdahc9pyem81.png?width=3200&format=png&auto=webp&s=7003513dacbe9704ed3a8b8c430f1932d4d0706a
+
+Some more examples:
+
+https://preview.redd.it/cql1thksyem81.png?width=3200&format=png&auto=webp&s=663d5c64f7cc9d4e63fcd37fdf0bda1358ebbdfc
+
+***(vi) Why do you want to work there?***
+
+Pick your two most favorite aspects about the company that you already found when doing your research. I like to pick one value driven one and one industry or current topic related. If you use their product, though, that should be first on your list.
+
+If you want to check out some examples for this, you can do that [here](https://careerfairss.s3.us-east-2.amazonaws.com/cover_letter_guide/Screenshot+2022-03-07+at+23.30.32.png), [here](https://careerfairss.s3.us-east-2.amazonaws.com/cover_letter_guide/Screenshot+2022-03-07+at+23.30.40.png), and [here](https://careerfairss.s3.us-east-2.amazonaws.com/cover_letter_guide/Screenshot+2022-03-07+at+23.30.48.png).
+
+Now that you’ve got two reasons, it’s time to craft together a simple paragraph that weaves them together:
+
+*Third, I’ve been following \[COMPANY\] for a couple of months now and I resonate with both the company’s values and its general direction. The \[Insert Value\] really stands out to me because \[Insert Reason\]. I also recently read that \[Insert topical reason\] and this appeals to me because \[Why it appeals to you\].*
+
+Realize that this part is your chance to bring out what you like about the company. And if you can’t really think of anything, maybe you need to rethink why you’re actually applying.
+
+***(vi) Conclusion***
+
+Simply state what you want and why you want it:
+
+*I think you’ll find that my experience is a really good fit for \[COMPANY\] and specifically this position. I’m ready to take my skills to the next level with your team and look forward to hearing back.*
+
+*Thanks,*
+
+*Your name*
+
+**Putting it together**
+
+Combing everything, here’s what my cover letter for my current job looked like:
+
+https://preview.redd.it/i4whem84zem81.png?width=4236&format=png&auto=webp&s=60072e121835415cbfa0f3706c91ad2faad5b1bf
+
+And voila. You now have all the tools to write a killer cover letter.
+
+\*\*\*
+
+**Credit**
+
+Thanks for reading. There’s great information available on this topic out there. The Princeton University cover letter guide is good as is the University of Washington's. Any questions feel free to DM me too.
+
+*I’d love for you to* [*subscribe*](https://www.careerfair.io/subscribe) *to my newsletter. Each week I spend 20 hours analyzing a tech career topic that’s going to help you level up. I share what I learnt in a 5 minute email report like this one.*
+
+Over and out -
+
+Shikhar","My Guide To Writing A Killer Cover Letter Most people think a cover letter is about themselves. This isn’t true.
+
+A cover letter is a marketing tool. Treat it like one and you’ll see it do wonders. Treat it like an autobiography and you’ll wonder why no one gets back to you.
+
+Here’s the cover letter formula that got me my current job:
+
+1. **Analyzing the job description**
+2. **Identifying what to include in your cover letter**
+3. **Why do you want to work here?**
+4. **Writing the cover letter**
+
+**Before we get started:** this is a long post (\~3000 words). If you'd rather get a free PDF copy of it, feel free to [drop your email](https://www.careerfair.io/subscribe) here and I'll be sending it next week. 
+
+**1/ Analyzing the job description**
+
+Always write a cover letter from scratch. It's better to apply for five relevant positions with a complementing cover letter than to apply for fifty positions without any background research.
+
+The best way to do this is to start by analyzing the job description.
+
+A job description is composed of two parts:
+
+1. What you’ll do
+2. What the company is looking for (i.e qualifications)
+
+First, focus on the “what you’ll do” portion. The first few bullets are the most important. And we need to make sure that they’re addressed in our cover letter. Start highlighting the ones you have experience carrying out.
+
+https://preview.redd.it/pbakyc28yem81.png?width=2600&format=png&auto=webp&s=ee3a2be51ee0c9d009f81068868ee28064271904
+
+Next, take a look at the qualifications. Note down the ones you can comfortably meet and ignore any you don’t. We also want to highlight the ‘preferred’ or ‘nice-to-have’ items listed in the job posting if you satisfy those.
+
+*Quick note: Qualifications are always negotiable and should never deter you from applying if you think you’re almost there but missing a few requirements.*
+
+https://preview.redd.it/s1yfj6n9yem81.png?width=3424&format=png&auto=webp&s=282abefe6281837a26d748131dbb9aca1daba54d
+
+Make sure to note all these skills you’ve highlighted in the job description down. We’re now ready to move onto our next step.
+
+**2/ Identifying what to include in your cover letter**
+
+Create a table with two columns. In the left column jot down the highlighted skills you identified in the above section. And now in the right column, start writing down how you can match up to the advertised qualifications.
+
+Here’s an example for my latest role. Notice how I try to use as many of the same words as the job description:
+
+https://preview.redd.it/xhalvb7byem81.png?width=3200&format=png&auto=webp&s=76992f4e46b66a259504c8fb0bcc2f1ec6fca3ab
+
+For now, just put down the qualifications without any regard for style. Also, you don’t need qualifications for all the requirements. We’re only going to use the top two anyway.
+
+Struggling to come up with qualifications? Try to ask your co-workers or peers about projects they’ve enjoyed working with you on. Keeping a [brag document](https://www.careerfair.io/reviews/howtobragatwork) can also be really helpful.
+
+And try to speak the employer’s language. So if a job description mentions “QuickBooks,” don’t just say you’ve used “accounting software”.
+
+**3/ Why do you want to work here?**
+
+You’re a great fit for the role. Now you have to convince them that you want to work there.
+
+Realize that this is just a research based question. If you do enough research, you will find information about the company that you can link back to your own interests and goals.
+
+To help you do research, ask yourself the following questions:
+
+* What is the company’s mission?
+* What problem are they trying to solve?
+* What’s the product?
+* What’s unique about this company compared to its competitors?
+* What are some policies or values that the company has that they feature on their homepage?
+* Describe any of the organization’s community engagement projects or employee development programs.
+
+A great place to find more info is to look at interviews that their founders or executives have done. Another is the company’s blog.
+
+Once you’ve done your research, list out *why* you find each answer to the above questions appealing. What is it about rockets that appeals to you? Why is a video messaging platform one you can connect with?
+
+And if you’ve been using their product, that enthusiasm will shine through. It’s not mandatory and it’s not even common, but when it does happen, you have a great reason for why you want to work at the company.
+
+*Sidenote: I'm going to release a complete guide on researching companies before the interview soon. If you'd like to read that you can* [*subscribe*](https://www.careerfair.io/subscribe) *here* *and get it when it's released.*
+
+**4/ Writing the cover letter**
+
+We’re going to use the following format for your cover letter:
+
+*(i) Who you are, what you want, and what you believe in.*
+
+*(ii) Transition*
+
+*(iii). Skill & Qualification Match*
+
+*(vi) Why do you want to work there?*
+
+*(v) Conclusion*
+
+***(i) Who you are, what you want, and what you believe in***
+
+Use the first one or two sentences to make some statements about who you are, what you want, and what you believe in. Here are some good examples:
+
+https://preview.redd.it/7tjx90ueyem81.png?width=2600&format=png&auto=webp&s=7c769a4c46e74c14d1b52b995177237b3569ba76
+
+Emphasize your strengths and also ideally mention something specific to the company.
+
+***(ii) Transition***
+
+I like to link the intro in my cover letter to the first skill-qualification match by having a summary statement and attaching it to a generic sentence:
+
+https://preview.redd.it/65imjsigyem81.png?width=2600&format=png&auto=webp&s=edfa8b0ec98b32708cca1db7b2c56c1b46b6fde5
+
+The first sentence summarizes what you will bring to the company. The second helps flow into the experiences you’re about to write about.
+
+Mine would be:
+
+*Over the last 12 months, I’ve helped my company generate over $X in revenue by leading meetings with executive leaders and also built a variety of web applications on the side.*
+
+*And now I’m excited to continue my journey by contributing and growing at Adyen. There are three things that make me the perfect fit for this position:*
+
+Here are some examples that differentiate weak and better summary statements:
+
+https://preview.redd.it/2hssbb2iyem81.png?width=3200&format=png&auto=webp&s=09585eef6003225bfc97c0cd38d5dc122af93b0a
+
+Avoid jargon and get specific. Half the words, twice the examples. Ideally with a few numbers sprinkled in.
+
+*Quick Note: The summary statement is also great to add to the top of your Linkedin bio.*
+
+***(ii) Skill & Qualification Match***
+
+Go back to your table matching your qualifications to the requirements. Pick the two most important ones.
+
+We’re going to link your qualifications to a theme. And then use that to transform your boring bullet points into exciting sentences.
+
+Here are eight common interview story themes:
+
+1. Leading People
+2. Taking initiative
+3. Affinity for challenging work
+4. Affinity for different types of work
+5. Affinity for specific work
+6. Dealing with failure
+7. Managing conflict
+8. Driven by curiosity
+
+Let's say we ended up with the below table when analyzing a specific job description.
+
+https://preview.redd.it/5zl2adfkyem81.png?width=3200&format=png&auto=webp&s=da38789ff4180a422a237027d1dd4827993f1dca
+
+And let’s take our first qualification:
+
+*Conducted Feature-Mapping and Requirements Gathering sessions with prospective and existing clients to formulate Scope and Backlog. Responsible for managing and creating backlog, writing stories and acceptance criteria for all managed projects.*
+
+Let’s figure out how we can link this to one of the interview story themes:
+
+https://preview.redd.it/mikhhw0myem81.png?width=3200&format=png&auto=webp&s=8057bf24031ebb66a10d21aac45f5f5836bf6ed8
+
+And here's another example:
+
+https://preview.redd.it/otukv2rnyem81.png?width=3200&format=png&auto=webp&s=d242ebd6f3764b64ce49d530a8a22df03ddfad97
+
+So what we’ve done here is abstracted some themes from this person’s actual qualifications.
+
+I know this isn't super scientific. More themes than just one work for most qualifications. But the goal is to help you solidify the type of story you want to tell.
+
+And now that you have your theme, you can use it to guide your body paragraphs using this format:
+
+https://preview.redd.it/hkdahc9pyem81.png?width=3200&format=png&auto=webp&s=7003513dacbe9704ed3a8b8c430f1932d4d0706a
+
+Some more examples:
+
+https://preview.redd.it/cql1thksyem81.png?width=3200&format=png&auto=webp&s=663d5c64f7cc9d4e63fcd37fdf0bda1358ebbdfc
+
+***(vi) Why do you want to work there?***
+
+Pick your two most favorite aspects about the company that you already found when doing your research. I like to pick one value driven one and one industry or current topic related. If you use their product, though, that should be first on your list.
+
+If you want to check out some examples for this, you can do that [here](https://careerfairss.s3.us-east-2.amazonaws.com/cover_letter_guide/Screenshot+2022-03-07+at+23.30.32.png), [here](https://careerfairss.s3.us-east-2.amazonaws.com/cover_letter_guide/Screenshot+2022-03-07+at+23.30.40.png), and [here](https://careerfairss.s3.us-east-2.amazonaws.com/cover_letter_guide/Screenshot+2022-03-07+at+23.30.48.png).
+
+Now that you’ve got two reasons, it’s time to craft together a simple paragraph that weaves them together:
+
+*Third, I’ve been following \[COMPANY\] for a couple of months now and I resonate with both the company’s values and its general direction. The \[Insert Value\] really stands out to me because \[Insert Reason\]. I also recently read that \[Insert topical reason\] and this appeals to me because \[Why it appeals to you\].*
+
+Realize that this part is your chance to bring out what you like about the company. And if you can’t really think of anything, maybe you need to rethink why you’re actually applying.
+
+***(vi) Conclusion***
+
+Simply state what you want and why you want it:
+
+*I think you’ll find that my experience is a really good fit for \[COMPANY\] and specifically this position. I’m ready to take my skills to the next level with your team and look forward to hearing back.*
+
+*Thanks,*
+
+*Your name*
+
+**Putting it together**
+
+Combing everything, here’s what my cover letter for my current job looked like:
+
+https://preview.redd.it/i4whem84zem81.png?width=4236&format=png&auto=webp&s=60072e121835415cbfa0f3706c91ad2faad5b1bf
+
+And voila. You now have all the tools to write a killer cover letter.
+
+\*\*\*
+
+**Credit**
+
+Thanks for reading. There’s great information available on this topic out there. The Princeton University cover letter guide is good as is the University of Washington's. Any questions feel free to DM me too.
+
+*I’d love for you to* [*subscribe*](https://www.careerfair.io/subscribe) *to my newsletter. Each week I spend 20 hours analyzing a tech career topic that’s going to help you level up. I share what I learnt in a 5 minute email report like this one.*
+
+Over and out -
+
+Shikhar",my guide to writing a killer cover letter most people think a cover letter is about themselves this isnt true a cover letter is a marketing tool treat it like one and youll see it do wonders treat it like an autobiography and youll wonder why no one gets back to you heres the cover letter formula that got me my current job analyzing the job description identifying what to include in your cover letter why do you want to work here writing the cover letter before we get started this is a long post words if youd rather get a free pdf copy of it feel free to drop your email here and ill be sending it next week analyzing the job description always write a cover letter from scratch its better to apply for five relevant positions with a complementing cover letter than to apply for fifty positions without any background research the best way to do this is to start by analyzing the job description a job description is composed of two parts what youll do what the company is looking for ie qualifications first focus on the what youll do portion the first few bullets are the most important and we need to make sure that theyre addressed in our cover letter start highlighting the ones you have experience carrying out next take a look at the qualifications note down the ones you can comfortably meet and ignore any you dont we also want to highlight the preferred or nicetohave items listed in the job posting if you satisfy those quick note qualifications are always negotiable and should never deter you from applying if you think youre almost there but missing a few requirements make sure to note all these skills youve highlighted in the job description down were now ready to move onto our next step identifying what to include in your cover letter create a table with two columns in the left column jot down the highlighted skills you identified in the above section and now in the right column start writing down how you can match up to the advertised qualifications heres an example for my latest role notice how i try to use as many of the same words as the job description for now just put down the qualifications without any regard for style also you dont need qualifications for all the requirements were only going to use the top two anyway struggling to come up with qualifications try to ask your coworkers or peers about projects theyve enjoyed working with you on keeping a brag document can also be really helpful and try to speak the employers language so if a job description mentions quickbooks dont just say youve used accounting software why do you want to work here youre a great fit for the role now you have to convince them that you want to work there realize that this is just a research based question if you do enough research you will find information about the company that you can link back to your own interests and goals to help you do research ask yourself the following questions what is the companys mission what problem are they trying to solve whats the product whats unique about this company compared to its competitors what are some policies or values that the company has that they feature on their homepage describe any of the organizations community engagement projects or employee development programs a great place to find more info is to look at interviews that their founders or executives have done another is the companys blog once youve done your research list out why you find each answer to the above questions appealing what is it about rockets that appeals to you why is a video messaging platform one you can connect with and if youve been using their product that enthusiasm will shine through its not mandatory and its not even common but when it does happen you have a great reason for why you want to work at the company sidenote im going to release a complete guide on researching companies before the interview soon if youd like to read that you can subscribe here and get it when its released writing the cover letter were going to use the following format for your cover letter i who you are what you want and what you believe in ii transition iii skill qualification match vi why do you want to work there v conclusion i who you are what you want and what you believe in use the first one or two sentences to make some statements about who you are what you want and what you believe in here are some good examples emphasize your strengths and also ideally mention something specific to the company ii transition i like to link the intro in my cover letter to the first skillqualification match by having a summary statement and attaching it to a generic sentence the first sentence summarizes what you will bring to the company the second helps flow into the experiences youre about to write about mine would be over the last months ive helped my company generate over x in revenue by leading meetings with executive leaders and also built a variety of web applications on the side and now im excited to continue my journey by contributing and growing at adyen there are three things that make me the perfect fit for this position here are some examples that differentiate weak and better summary statements avoid jargon and get specific half the words twice the examples ideally with a few numbers sprinkled in quick note the summary statement is also great to add to the top of your linkedin bio ii skill qualification match go back to your table matching your qualifications to the requirements pick the two most important ones were going to link your qualifications to a theme and then use that to transform your boring bullet points into exciting sentences here are eight common interview story themes leading people taking initiative affinity for challenging work affinity for different types of work affinity for specific work dealing with failure managing conflict driven by curiosity lets say we ended up with the below table when analyzing a specific job description and lets take our first qualification conducted featuremapping and requirements gathering sessions with prospective and existing clients to formulate scope and backlog responsible for managing and creating backlog writing stories and acceptance criteria for all managed projects lets figure out how we can link this to one of the interview story themes and heres another example so what weve done here is abstracted some themes from this persons actual qualifications i know this isnt super scientific more themes than just one work for most qualifications but the goal is to help you solidify the type of story you want to tell and now that you have your theme you can use it to guide your body paragraphs using this format some more examples vi why do you want to work there pick your two most favorite aspects about the company that you already found when doing your research i like to pick one value driven one and one industry or current topic related if you use their product though that should be first on your list if you want to check out some examples for this you can do that here here and here now that youve got two reasons its time to craft together a simple paragraph that weaves them together third ive been following company for a couple of months now and i resonate with both the companys values and its general direction the insert value really stands out to me because insert reason i also recently read that insert topical reason and this appeals to me because why it appeals to you realize that this part is your chance to bring out what you like about the company and if you cant really think of anything maybe you need to rethink why youre actually applying vi conclusion simply state what you want and why you want it i think youll find that my experience is a really good fit for company and specifically this position im ready to take my skills to the next level with your team and look forward to hearing back thanks your name putting it together combing everything heres what my cover letter for my current job looked like and voila you now have all the tools to write a killer cover letter credit thanks for reading theres great information available on this topic out there the princeton university cover letter guide is good as is the university of washingtons any questions feel free to dm me too id love for you to subscribe to my newsletter each week i spend hours analyzing a tech career topic thats going to help you level up i share what i learnt in a minute email report like this one over and out shikhar,"{'neg': 0.029, 'neu': 0.814, 'pos': 0.156, 'compound': 0.9996}",0.9996,Positive
+Expectation vs reality,1781,93,1565814706.0,https://i.redd.it/4f71u8ti5hg31.jpg,,Expectation vs reality ,expectation vs reality,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Me showing off a suspiciously well-performing model [OC],1767,27,1627304783.0,https://i.redd.it/u3ngf9tw2kd71.png,,Me showing off a suspiciously well-performing model [OC] ,me showing off a suspiciously wellperforming model oc,"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}",-0.4019,Negative
+Thoughts?,1735,188,1675968872.0,https://i.redd.it/l269tf8x39ha1.jpg,,Thoughts? ,thoughts,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Meme Mondays,1708,110,1697493093.0,https://i.redd.it/zxdz4pm6ymub1.png,,Meme Mondays ,meme mondays,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Friendly reminder not to work too hard. You'll just get fired,1705,204,1706704645.0,https://www.reddit.com/r/datascience/comments/1afgvv9/friendly_reminder_not_to_work_too_hard_youll_just/,"The year just started and there are already over 50K layoffs. The latest one is UPS, including some data professionals at corporate. These are people who worked hard, built a career with the company over extremely long period of time, stayed loyal, 3% merit increases, worked extra hours because they believed that they were contributing to a better future for the company and themselves.... And they were laid off without a second thought for cost saving. Yeah, Because that makes so much sense, right? Record-breaking profits every year is an unattainable goal, and it's stupid that here in the USA, we are one of the only countries that keeps pushing for this while other countries are leaving us in the dust with their quality of life....
+
+
+So just remember. If you're thinking about doing some overtime for free, or going above and beyond just for a pat on the back, don't do it. You only have so many years on Earth. Focus on your own life and prioritize yourself, always","Friendly reminder not to work too hard. You'll just get fired The year just started and there are already over 50K layoffs. The latest one is UPS, including some data professionals at corporate. These are people who worked hard, built a career with the company over extremely long period of time, stayed loyal, 3% merit increases, worked extra hours because they believed that they were contributing to a better future for the company and themselves.... And they were laid off without a second thought for cost saving. Yeah, Because that makes so much sense, right? Record-breaking profits every year is an unattainable goal, and it's stupid that here in the USA, we are one of the only countries that keeps pushing for this while other countries are leaving us in the dust with their quality of life....
+
+
+So just remember. If you're thinking about doing some overtime for free, or going above and beyond just for a pat on the back, don't do it. You only have so many years on Earth. Focus on your own life and prioritize yourself, always",friendly reminder not to work too hard youll just get fired the year just started and there are already over k layoffs the latest one is ups including some data professionals at corporate these are people who worked hard built a career with the company over extremely long period of time stayed loyal merit increases worked extra hours because they believed that they were contributing to a better future for the company and themselves and they were laid off without a second thought for cost saving yeah because that makes so much sense right recordbreaking profits every year is an unattainable goal and its stupid that here in the usa we are one of the only countries that keeps pushing for this while other countries are leaving us in the dust with their quality of life so just remember if youre thinking about doing some overtime for free or going above and beyond just for a pat on the back dont do it you only have so many years on earth focus on your own life and prioritize yourself always,"{'neg': 0.05, 'neu': 0.844, 'pos': 0.105, 'compound': 0.891}",0.891,Positive
+"Add it to the training set, Walmart",1696,53,1667511110.0,https://i.redd.it/irkcbvz41tx91.jpg,,"Add it to the training set, Walmart ",add it to the training set walmart,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"When you tell people what you do for a living, but they don't think it's cool or ask any follow-up questions.",1694,131,1652105307.0,https://i.imgur.com/MtE7xpH.png,,"When you tell people what you do for a living, but they don't think it's cool or ask any follow-up questions. ",when you tell people what you do for a living but they dont think its cool or ask any followup questions,"{'neg': 0.114, 'neu': 0.886, 'pos': 0.0, 'compound': -0.3491}",-0.3491,Negative
+The formatting struggle.,1696,95,1562676698.0,https://i.redd.it/yjm3620my9931.jpg,,The formatting struggle. ,the formatting struggle,"{'neg': 0.535, 'neu': 0.465, 'pos': 0.0, 'compound': -0.3182}",-0.3182,Negative
+Recruiters be like,1682,97,1580742782.0,https://i.redd.it/j5mx9ulc6qe41.jpg,,Recruiters be like ,recruiters be like,"{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}",0.3612,Positive
+I dare someone to drop this into a stakeholder presentation,1684,136,1743735580.0,https://i.redd.it/vanv2v55hqse1.jpeg,"From source: https://ustr.gov/issue-areas/reciprocal-tariff-calculations
+
+> “Parameter values for ε and φ were selected. The price elasticity of import demand, ε, was set at 4… The elasticity of import prices with respect to tariffs, φ, is 0.25.“","I dare someone to drop this into a stakeholder presentation From source: https://ustr.gov/issue-areas/reciprocal-tariff-calculations
+
+> “Parameter values for ε and φ were selected. The price elasticity of import demand, ε, was set at 4… The elasticity of import prices with respect to tariffs, φ, is 0.25.“",i dare someone to drop this into a stakeholder presentation from source parameter values for and were selected the price elasticity of import demand was set at the elasticity of import prices with respect to tariffs is,"{'neg': 0.089, 'neu': 0.767, 'pos': 0.144, 'compound': 0.4939}",0.4939,Positive
+"When you get an Excel Sheet of 1000x5 and your clients ask you to do ""Data Science"" on this with ""AI""",1674,232,1576094988.0,https://i.redd.it/hl8wcciu92441.jpg,,"When you get an Excel Sheet of 1000x5 and your clients ask you to do ""Data Science"" on this with ""AI"" ",when you get an excel sheet of x and your clients ask you to do data science on this with ai,"{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.4588}",0.4588,Positive
+Today’s edition of unreasonable job descriptions…,1669,247,1634684935.0,https://i.redd.it/x772dpg2ohu71.jpg,,Today’s edition of unreasonable job descriptions… ,todays edition of unreasonable job descriptions,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+When you raise your polynomial to a degree of 11 in excel and get an R^2 of 0.99,1643,44,1648460039.0,https://i.redd.it/qi0ufe42g3q81.png,,When you raise your polynomial to a degree of 11 in excel and get an R^2 of 0.99 ,when you raise your polynomial to a degree of in excel and get an r of,"{'neg': 0.0, 'neu': 0.812, 'pos': 0.188, 'compound': 0.4588}",0.4588,Positive
+How to get a job in data science - a semi-harsh Q/A guide.,1631,215,1636388717.0,https://www.reddit.com/r/datascience/comments/qph4tx/how_to_get_a_job_in_data_science_a_semiharsh_qa/,"**HOW DO I GET A JOB IN DATA SCIENCE?**
+
+Hey you. Yes you, person asking ""how do I get a job in data science/analytics/MLE/AI whatever BS job with data in the title?"". I got news for you. There are two simple rules to getting one of these jobs.
+
+1. Have experience.
+
+2. Don't have no experience.
+
+There are approximately 1000 entry level candidates who think they're qualified because they did a 24 week bootcamp for every entry level job. I don't need to be a statistician to tell you your odds of landing one of these aren't great.
+
+**HOW DO I GET EXPERIENCE?**
+
+Are you currently employed? If not, get a job. If you are, figure out a way to apply data science in your job, then put it on your resume. Mega bonus points here if you can figure out a way to attribute a dollar value to your contribution. Talk to your supervisor about career aspirations at year-end/mid-year reviews. Maybe you'll find a way to transfer to a role internally and skip the whole resume ignoring phase. Alternatively, network. Be friends with people who are in the roles you want to be in, maybe they'll help you find a job at their company.
+
+**WHY AM I NOT GETTING INTERVIEWS?**
+
+IDK. Maybe you don't have the required experience. Maybe there are 500+ other people applying for the same position. Maybe your resume stinks. If you're getting 1/20 response rate, you're doing great. Quit whining. 
+
+**IS XYZ DEGREE GOOD FOR DATA SCIENCE?**
+
+Does your degree involve some sort of non-remedial math higher than college algebra? Does your degree involve taking any sort of programming classes? If yes, congratulations, your degree will pass most base requirements for data science. Is it the best? Probably not, unless you're CS or some really heavy math degree where half your classes are taught in Greek letters. Don't come at me with those art history and underwater basket weaving degrees unless you have multiple years experience doing something else.
+
+**SHOULD I DO XYZ BOOTCAMP/MICROMASTERS?**
+
+Do you have experience? No? This ain't gonna help you as much as you think it might. Are you experienced and want to learn more about how data science works? This could be helpful.
+
+**SHOULD I DO XYZ MASTER'S IN DATA SCIENCE PROGRAM?**
+
+Congratulations, doing a Master's is usually a good idea and will help make you more competitive as a candidate. Should you shell out 100K for one when you can pay 10K for one online? Probably not. In all likelihood, you're not gonna get $90K in marginal benefit from the more expensive program. Pick a known school (probably avoid really obscure schools, the name does count for a little) and you'll be fine. Big bonus here if you can sucker your employer into paying for it.
+
+**WILL XYZ CERTIFICATE HELP MY RESUME?**
+
+Does your certificate say ""AWS"" or ""AZURE"" on it? If not, no.
+
+**DO I NEED TO KNOW XYZ MATH TOPIC?**
+
+Yes. Stop asking. Probably learn probability, be familiar with linear algebra, and understand what the hell a partial derivative is. Learn how to test hypotheses. Ultimately you need to know what the heck is going on math-wise in your predictions otherwise the company is going to go bankrupt and it will be all your fault. 
+
+**WHAT IF I'M BAD AT MATH?**
+
+Git gud. Do some studying or something. MIT opencourseware has a bunch of free recorded math classes. If you want to learn some Linear Algebra, Gilbert Strang is your guy. 
+
+**WHAT PROGRAMMING LANGUAGES SHOULD I LEARN?**
+
+STOP ASKING THIS QUESTION. I CAN GOOGLE ""HOW TO BE A DATA SCIENTIST"" AND EVERY SINGLE GARBAGE TDS ARTICLE WILL TELL YOU SQL AND PYTHON/R. YOU'RE LUCKY YOU DON'T HAVE TO DEAL WITH THE JOY OF SEGMENTATION FAULTS TO RUN A SIMPLE LINEAR REGRESSION. 
+
+**SHOULD I LEARN PYTHON OR R?**
+
+Both. Python is more widely used and tends to be more general purpose than R. R is better at statistics and data analysis, but is a bit more niche. 
+Take your pick to start, but ultimately you're gonna want to learn both you slacker.
+
+**SHOULD I MAKE A PORTFOLIO?**
+
+Yes. And don't put some BS housing price regression, iris classification, or titanic survival project on it either. Next question.
+
+**WHAT SHOULD I DO AS A PROJECT?**
+
+IDK what are you interested in? If you say twitter sentiment stock market prediction go sit in the corner and think about what you just said. Every half brained first year student who can pip install sklearn and do model.fit() has tried unsuccessfully to predict the stock market. The efficient market hypothesis is a thing for a reason. There are literally millions of other free datasets out there you have one of the most powerful search engines at your fingertips to go find them. Pick something you're interested in, find some data, and analyze it. 
+
+**DO I NEED TO BE GOOD WITH PEOPLE?** (courtesy of /u/bikeskata)
+
+Yes! First, when you're applying, no one wants to work with a weirdo. You should be able to have a basic conversation with people, and they shouldn't come away from it thinking you'll follow them home and wear their skin as a suit. Once you get a job, you'll be interacting with colleagues, and you'll need them to care about your analysis. Presumably, there are non-technical people making decisions you'll need to bring in as well. If you can't explain to a moderately intelligent person why they should care about the thing that took you 3 days (and cost $$$ in cloud computing costs), you probably won't have your position for long. You don't need to be the life of the party, but you should be pleasant to be around.
+
+
+**WHAT IF I HAVE OTHER QUESTIONS?**
+
+READ THE GD /R/DATASCIENCE SUB WIKI. IT'S THERE FOR A REASON AND HAS GOOD INFORMATION.
+
+And if you're posting these questions on /r/datascience, please for the love of all that is good in this world, use the weekly thread. Your post is gonna get nuked by the mods and no one is going to see it and you're going to die alone.","How to get a job in data science - a semi-harsh Q/A guide. **HOW DO I GET A JOB IN DATA SCIENCE?**
+
+Hey you. Yes you, person asking ""how do I get a job in data science/analytics/MLE/AI whatever BS job with data in the title?"". I got news for you. There are two simple rules to getting one of these jobs.
+
+1. Have experience.
+
+2. Don't have no experience.
+
+There are approximately 1000 entry level candidates who think they're qualified because they did a 24 week bootcamp for every entry level job. I don't need to be a statistician to tell you your odds of landing one of these aren't great.
+
+**HOW DO I GET EXPERIENCE?**
+
+Are you currently employed? If not, get a job. If you are, figure out a way to apply data science in your job, then put it on your resume. Mega bonus points here if you can figure out a way to attribute a dollar value to your contribution. Talk to your supervisor about career aspirations at year-end/mid-year reviews. Maybe you'll find a way to transfer to a role internally and skip the whole resume ignoring phase. Alternatively, network. Be friends with people who are in the roles you want to be in, maybe they'll help you find a job at their company.
+
+**WHY AM I NOT GETTING INTERVIEWS?**
+
+IDK. Maybe you don't have the required experience. Maybe there are 500+ other people applying for the same position. Maybe your resume stinks. If you're getting 1/20 response rate, you're doing great. Quit whining. 
+
+**IS XYZ DEGREE GOOD FOR DATA SCIENCE?**
+
+Does your degree involve some sort of non-remedial math higher than college algebra? Does your degree involve taking any sort of programming classes? If yes, congratulations, your degree will pass most base requirements for data science. Is it the best? Probably not, unless you're CS or some really heavy math degree where half your classes are taught in Greek letters. Don't come at me with those art history and underwater basket weaving degrees unless you have multiple years experience doing something else.
+
+**SHOULD I DO XYZ BOOTCAMP/MICROMASTERS?**
+
+Do you have experience? No? This ain't gonna help you as much as you think it might. Are you experienced and want to learn more about how data science works? This could be helpful.
+
+**SHOULD I DO XYZ MASTER'S IN DATA SCIENCE PROGRAM?**
+
+Congratulations, doing a Master's is usually a good idea and will help make you more competitive as a candidate. Should you shell out 100K for one when you can pay 10K for one online? Probably not. In all likelihood, you're not gonna get $90K in marginal benefit from the more expensive program. Pick a known school (probably avoid really obscure schools, the name does count for a little) and you'll be fine. Big bonus here if you can sucker your employer into paying for it.
+
+**WILL XYZ CERTIFICATE HELP MY RESUME?**
+
+Does your certificate say ""AWS"" or ""AZURE"" on it? If not, no.
+
+**DO I NEED TO KNOW XYZ MATH TOPIC?**
+
+Yes. Stop asking. Probably learn probability, be familiar with linear algebra, and understand what the hell a partial derivative is. Learn how to test hypotheses. Ultimately you need to know what the heck is going on math-wise in your predictions otherwise the company is going to go bankrupt and it will be all your fault. 
+
+**WHAT IF I'M BAD AT MATH?**
+
+Git gud. Do some studying or something. MIT opencourseware has a bunch of free recorded math classes. If you want to learn some Linear Algebra, Gilbert Strang is your guy. 
+
+**WHAT PROGRAMMING LANGUAGES SHOULD I LEARN?**
+
+STOP ASKING THIS QUESTION. I CAN GOOGLE ""HOW TO BE A DATA SCIENTIST"" AND EVERY SINGLE GARBAGE TDS ARTICLE WILL TELL YOU SQL AND PYTHON/R. YOU'RE LUCKY YOU DON'T HAVE TO DEAL WITH THE JOY OF SEGMENTATION FAULTS TO RUN A SIMPLE LINEAR REGRESSION. 
+
+**SHOULD I LEARN PYTHON OR R?**
+
+Both. Python is more widely used and tends to be more general purpose than R. R is better at statistics and data analysis, but is a bit more niche. 
+Take your pick to start, but ultimately you're gonna want to learn both you slacker.
+
+**SHOULD I MAKE A PORTFOLIO?**
+
+Yes. And don't put some BS housing price regression, iris classification, or titanic survival project on it either. Next question.
+
+**WHAT SHOULD I DO AS A PROJECT?**
+
+IDK what are you interested in? If you say twitter sentiment stock market prediction go sit in the corner and think about what you just said. Every half brained first year student who can pip install sklearn and do model.fit() has tried unsuccessfully to predict the stock market. The efficient market hypothesis is a thing for a reason. There are literally millions of other free datasets out there you have one of the most powerful search engines at your fingertips to go find them. Pick something you're interested in, find some data, and analyze it. 
+
+**DO I NEED TO BE GOOD WITH PEOPLE?** (courtesy of /u/bikeskata)
+
+Yes! First, when you're applying, no one wants to work with a weirdo. You should be able to have a basic conversation with people, and they shouldn't come away from it thinking you'll follow them home and wear their skin as a suit. Once you get a job, you'll be interacting with colleagues, and you'll need them to care about your analysis. Presumably, there are non-technical people making decisions you'll need to bring in as well. If you can't explain to a moderately intelligent person why they should care about the thing that took you 3 days (and cost $$$ in cloud computing costs), you probably won't have your position for long. You don't need to be the life of the party, but you should be pleasant to be around.
+
+
+**WHAT IF I HAVE OTHER QUESTIONS?**
+
+READ THE GD /R/DATASCIENCE SUB WIKI. IT'S THERE FOR A REASON AND HAS GOOD INFORMATION.
+
+And if you're posting these questions on /r/datascience, please for the love of all that is good in this world, use the weekly thread. Your post is gonna get nuked by the mods and no one is going to see it and you're going to die alone.",how to get a job in data science a semiharsh qa guide how do i get a job in data science hey you yes you person asking how do i get a job in data scienceanalyticsmleai whatever bs job with data in the title i got news for you there are two simple rules to getting one of these jobs have experience dont have no experience there are approximately entry level candidates who think theyre qualified because they did a week bootcamp for every entry level job i dont need to be a statistician to tell you your odds of landing one of these arent great how do i get experience are you currently employed if not get a job if you are figure out a way to apply data science in your job then put it on your resume mega bonus points here if you can figure out a way to attribute a dollar value to your contribution talk to your supervisor about career aspirations at yearendmidyear reviews maybe youll find a way to transfer to a role internally and skip the whole resume ignoring phase alternatively network be friends with people who are in the roles you want to be in maybe theyll help you find a job at their company why am i not getting interviews idk maybe you dont have the required experience maybe there are other people applying for the same position maybe your resume stinks if youre getting response rate youre doing great quit whining is xyz degree good for data science does your degree involve some sort of nonremedial math higher than college algebra does your degree involve taking any sort of programming classes if yes congratulations your degree will pass most base requirements for data science is it the best probably not unless youre cs or some really heavy math degree where half your classes are taught in greek letters dont come at me with those art history and underwater basket weaving degrees unless you have multiple years experience doing something else should i do xyz bootcampmicromasters do you have experience no this aint gonna help you as much as you think it might are you experienced and want to learn more about how data science works this could be helpful should i do xyz masters in data science program congratulations doing a masters is usually a good idea and will help make you more competitive as a candidate should you shell out k for one when you can pay k for one online probably not in all likelihood youre not gonna get k in marginal benefit from the more expensive program pick a known school probably avoid really obscure schools the name does count for a little and youll be fine big bonus here if you can sucker your employer into paying for it will xyz certificate help my resume does your certificate say aws or azure on it if not no do i need to know xyz math topic yes stop asking probably learn probability be familiar with linear algebra and understand what the hell a partial derivative is learn how to test hypotheses ultimately you need to know what the heck is going on mathwise in your predictions otherwise the company is going to go bankrupt and it will be all your fault what if im bad at math git gud do some studying or something mit opencourseware has a bunch of free recorded math classes if you want to learn some linear algebra gilbert strang is your guy what programming languages should i learn stop asking this question i can google how to be a data scientist and every single garbage tds article will tell you sql and pythonr youre lucky you dont have to deal with the joy of segmentation faults to run a simple linear regression should i learn python or r both python is more widely used and tends to be more general purpose than r r is better at statistics and data analysis but is a bit more niche take your pick to start but ultimately youre gonna want to learn both you slacker should i make a portfolio yes and dont put some bs housing price regression iris classification or titanic survival project on it either next question what should i do as a project idk what are you interested in if you say twitter sentiment stock market prediction go sit in the corner and think about what you just said every half brained first year student who can pip install sklearn and do modelfit has tried unsuccessfully to predict the stock market the efficient market hypothesis is a thing for a reason there are literally millions of other free datasets out there you have one of the most powerful search engines at your fingertips to go find them pick something youre interested in find some data and analyze it do i need to be good with people courtesy of ubikeskata yes first when youre applying no one wants to work with a weirdo you should be able to have a basic conversation with people and they shouldnt come away from it thinking youll follow them home and wear their skin as a suit once you get a job youll be interacting with colleagues and youll need them to care about your analysis presumably there are nontechnical people making decisions youll need to bring in as well if you cant explain to a moderately intelligent person why they should care about the thing that took you days and cost in cloud computing costs you probably wont have your position for long you dont need to be the life of the party but you should be pleasant to be around what if i have other questions read the gd rdatascience sub wiki its there for a reason and has good information and if youre posting these questions on rdatascience please for the love of all that is good in this world use the weekly thread your post is gonna get nuked by the mods and no one is going to see it and youre going to die alone,"{'neg': 0.041, 'neu': 0.832, 'pos': 0.128, 'compound': 0.9978}",0.9978,Positive
+K-means be like: Mine ! MINE ! MINE !,1608,29,1568887322.0,https://i.redd.it/apqss6kzxin31.jpg,,K-means be like: Mine ! MINE ! MINE ! ,kmeans be like mine mine mine,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}",0.3612,Positive
+Companies are finally hiring,1582,133,1736421422.0,https://www.reddit.com/r/datascience/comments/1hxalxo/companies_are_finally_hiring/,"I applied to 80+ jobs before the new year and got rejected or didn’t hear back from most of them. A few positions were a level or two lower than my currently level. I got only 1 interview and I did accept the offer. 
+
+In the last week, 4 companies reached out for interviews. Just want to put this out there for those who are still looking. Keep going at it. 
+
+Edit - thank you all for the congratulations and I’m sorry I can’t respond to DMs. Here are answers to some common questions. 
+
+1. The technical coding challenge was only SQL. Frankly in my 8 years of analytics, none of my peers use Python regularly unless their role is to automate or data engineering. You’re better off mastering SQL by using leetcode and DataLemur
+
+2. Interviews at all the FAANGs are similar. Call with HR rep, first round is with 1 person and might be technical. Then a final round with a bunch of individual interviews on the same day. Most of the questions will be STAR format. 
+
+3. As for my skillsets, I advertise myself as someone who can build strategy, project manage, and can do deep dive analyses. I’m never going to compete against the recent grads and experts in ML/LLM/AI on technical skills, that’s just an endless grind to stay at the top. I would strongly recommend others to sharpen their soft skills. A video I watched recently is from The Diary of a CEO with Body Language Expert with Vanessa Edwards. I legit used a few tips during my interviews and I thought that helped ","Companies are finally hiring I applied to 80+ jobs before the new year and got rejected or didn’t hear back from most of them. A few positions were a level or two lower than my currently level. I got only 1 interview and I did accept the offer. 
+
+In the last week, 4 companies reached out for interviews. Just want to put this out there for those who are still looking. Keep going at it. 
+
+Edit - thank you all for the congratulations and I’m sorry I can’t respond to DMs. Here are answers to some common questions. 
+
+1. The technical coding challenge was only SQL. Frankly in my 8 years of analytics, none of my peers use Python regularly unless their role is to automate or data engineering. You’re better off mastering SQL by using leetcode and DataLemur
+
+2. Interviews at all the FAANGs are similar. Call with HR rep, first round is with 1 person and might be technical. Then a final round with a bunch of individual interviews on the same day. Most of the questions will be STAR format. 
+
+3. As for my skillsets, I advertise myself as someone who can build strategy, project manage, and can do deep dive analyses. I’m never going to compete against the recent grads and experts in ML/LLM/AI on technical skills, that’s just an endless grind to stay at the top. I would strongly recommend others to sharpen their soft skills. A video I watched recently is from The Diary of a CEO with Body Language Expert with Vanessa Edwards. I legit used a few tips during my interviews and I thought that helped ",companies are finally hiring i applied to jobs before the new year and got rejected or didnt hear back from most of them a few positions were a level or two lower than my currently level i got only interview and i did accept the offer in the last week companies reached out for interviews just want to put this out there for those who are still looking keep going at it edit thank you all for the congratulations and im sorry i cant respond to dms here are answers to some common questions the technical coding challenge was only sql frankly in my years of analytics none of my peers use python regularly unless their role is to automate or data engineering youre better off mastering sql by using leetcode and datalemur interviews at all the faangs are similar call with hr rep first round is with person and might be technical then a final round with a bunch of individual interviews on the same day most of the questions will be star format as for my skillsets i advertise myself as someone who can build strategy project manage and can do deep dive analyses im never going to compete against the recent grads and experts in mlllmai on technical skills thats just an endless grind to stay at the top i would strongly recommend others to sharpen their soft skills a video i watched recently is from the diary of a ceo with body language expert with vanessa edwards i legit used a few tips during my interviews and i thought that helped,"{'neg': 0.026, 'neu': 0.89, 'pos': 0.084, 'compound': 0.91}",0.91,Positive
+2022 Mood,1574,88,1641797504.0,https://i.redd.it/s7olw2f01ra81.jpg,,2022 Mood ,mood,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Here are the questions I was asked for my entry level DS job!,1573,254,1662909364.0,https://www.reddit.com/r/datascience/comments/xbl58o/here_are_the_questions_i_was_asked_for_my_entry/,"Hey everyone. I posted a thread a few days ago about being nervous about my first DS interview. The thread was taken down by mods due to it being more appropriate for the stickied thread. So I want to make this thread less about questions, but more of an informative post to show you some of the questions I was asked. Hopefully it's helpful for newbies and veterans alike!
+
+&#x200B;
+
+**SQL:**
+
+* What is a view?
+* Is a table dynamic or static?
+* Difference between a primary key and foreign key
+* Inner Join vs. Left Join scenario (pretty sure it was from w3schools. ez pz)
+* WHERE vs. HAVING
+* When would you use a subquery? Provide an example
+* How would you improve the performance of a slow query?
+* EDIT: Some aggregation and GROUP by questions (MAX, AVG, COUNT, etc.) that I just remembered.
+
+**Python**
+
+* Explanation of libraries I use (Pandas mainly)
+* How would you get the maximum result from a list?
+* Can you explain the concept of functions
+* Difference between FOR and WHILE loops?
+* Give some examples of how you would clean dirty data.
+
+**Tableau:**
+
+* What is a calculated field? Provide some examples in your work
+* What is the difference between a live view and extract? When would you use each?
+* More information given on the data I work with
+
+**Statistics:**
+
+* Explain what a p-value is to someone who has no idea what that is.
+* Explanation on linear/logistic regression modeling.
+* What is standard deviation? Examples?
+* Difference between STDEV and Variance?
+* What statistics do you currently work with? (Descriptive mainly... mean, median, mode, stdev, confidence intervals)
+
+I advanced to round 3 immediately, which is pretty much a shoe-in according to the hiring manager. I am very excited because it seems like a great opportunity. Even if I don't get it, I still felt like I interviewed very well and did my best. I am very proud of myself.
+
+120k a year w/ benefits, bonuses, and training courses a week to help me learn more advanced DS concepts, Python, or whatever I want. I am so excited.","Here are the questions I was asked for my entry level DS job! Hey everyone. I posted a thread a few days ago about being nervous about my first DS interview. The thread was taken down by mods due to it being more appropriate for the stickied thread. So I want to make this thread less about questions, but more of an informative post to show you some of the questions I was asked. Hopefully it's helpful for newbies and veterans alike!
+
+&#x200B;
+
+**SQL:**
+
+* What is a view?
+* Is a table dynamic or static?
+* Difference between a primary key and foreign key
+* Inner Join vs. Left Join scenario (pretty sure it was from w3schools. ez pz)
+* WHERE vs. HAVING
+* When would you use a subquery? Provide an example
+* How would you improve the performance of a slow query?
+* EDIT: Some aggregation and GROUP by questions (MAX, AVG, COUNT, etc.) that I just remembered.
+
+**Python**
+
+* Explanation of libraries I use (Pandas mainly)
+* How would you get the maximum result from a list?
+* Can you explain the concept of functions
+* Difference between FOR and WHILE loops?
+* Give some examples of how you would clean dirty data.
+
+**Tableau:**
+
+* What is a calculated field? Provide some examples in your work
+* What is the difference between a live view and extract? When would you use each?
+* More information given on the data I work with
+
+**Statistics:**
+
+* Explain what a p-value is to someone who has no idea what that is.
+* Explanation on linear/logistic regression modeling.
+* What is standard deviation? Examples?
+* Difference between STDEV and Variance?
+* What statistics do you currently work with? (Descriptive mainly... mean, median, mode, stdev, confidence intervals)
+
+I advanced to round 3 immediately, which is pretty much a shoe-in according to the hiring manager. I am very excited because it seems like a great opportunity. Even if I don't get it, I still felt like I interviewed very well and did my best. I am very proud of myself.
+
+120k a year w/ benefits, bonuses, and training courses a week to help me learn more advanced DS concepts, Python, or whatever I want. I am so excited.",here are the questions i was asked for my entry level ds job hey everyone i posted a thread a few days ago about being nervous about my first ds interview the thread was taken down by mods due to it being more appropriate for the stickied thread so i want to make this thread less about questions but more of an informative post to show you some of the questions i was asked hopefully its helpful for newbies and veterans alike xb sql what is a view is a table dynamic or static difference between a primary key and foreign key inner join vs left join scenario pretty sure it was from wschools ez pz where vs having when would you use a subquery provide an example how would you improve the performance of a slow query edit some aggregation and group by questions max avg count etc that i just remembered python explanation of libraries i use pandas mainly how would you get the maximum result from a list can you explain the concept of functions difference between for and while loops give some examples of how you would clean dirty data tableau what is a calculated field provide some examples in your work what is the difference between a live view and extract when would you use each more information given on the data i work with statistics explain what a pvalue is to someone who has no idea what that is explanation on linearlogistic regression modeling what is standard deviation examples difference between stdev and variance what statistics do you currently work with descriptive mainly mean median mode stdev confidence intervals i advanced to round immediately which is pretty much a shoein according to the hiring manager i am very excited because it seems like a great opportunity even if i dont get it i still felt like i interviewed very well and did my best i am very proud of myself k a year w benefits bonuses and training courses a week to help me learn more advanced ds concepts python or whatever i want i am so excited,"{'neg': 0.021, 'neu': 0.73, 'pos': 0.25, 'compound': 0.9983}",0.9983,Positive
+Data Scientists on languages...,1569,167,1566501561.0,https://i.redd.it/tl3fmvuqv1i31.jpg,,Data Scientists on languages... ,data scientists on languages,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"The media really doesn’t know what we do, do they?",1564,174,1648155095.0,https://i.imgur.com/U9IgtPh.jpg,,"The media really doesn’t know what we do, do they? ",the media really doesnt know what we do do they,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+SMB interviews be like:,1527,89,1679978051.0,https://i.redd.it/q2or4qsireqa1.png,,SMB interviews be like: ,smb interviews be like,"{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612}",0.3612,Positive
+Job hunt results as a mid-level Data Scientist w/ ADHD,1529,197,1671840226.0,https://i.redd.it/kxtetcbjlq7a1.png,,Job hunt results as a mid-level Data Scientist w/ ADHD ,job hunt results as a midlevel data scientist w adhd,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"A ""Data Science"" company stole my gf's ML project and reposted it as their own. What do I do?",1492,75,1589721968.0,https://www.reddit.com/r/datascience/comments/glfdmm/a_data_science_company_stole_my_gfs_ml_project/,"Dean Hoffman responds: [https://www.reddit.com/r/datascience/comments/gmirks/my\_apologies\_from\_a\_data\_science\_company\_stole\_my/](https://www.reddit.com/r/datascience/comments/gmirks/my_apologies_from_a_data_science_company_stole_my/)
+
+Hi,
+
+My girlfriend is a 22 year old university student passionate about data science, and she just posted my first article on Medium using Machine-Learning (that took her months of research and coding to put together). Her post only has about 500 views, but to her surprise today a reddit user called [**Dean-Hoffman**](https://www.reddit.com/user/Dean-Hoffman/) **posted a link to his own data science company where he copy-pasted her article.** He didn't contact her about reposting it, didn't give her proper credit and **ridiculously added a ""Contact Data Scientist"" at the end with his name on it**. On the article, he clearly stated he is the author in multiple locations. This is the ""Data Science"" company that links from the article on his website: [https://www.actionablelabs.com/](https://www.actionablelabs.com/)
+
+Apparently the guy Dean Hoffman is the ""founder"" of the company and refers to himself on the About Us as **""offering the highest commitment to excellence, personal integrity, and business ethics.""**
+
+Update: Hey, this is the girlfriend that wrote the article. First of all, thank you all that made the time to reply, research and help me find answers. It's really appreciated.  So far, this is what we know about this person (or people):
+
+\- This website has been stealing hundreds, if not thousands, of data science projects and articles from legitimate data scientists and writers.
+
+\- The stolen content website in definitely bot-operated as the owner posts dozens of articles a day, completely copy+paste, mainly from Medium, TechCrunch and Towards Data Science.
+
+\- It's confirmed that Dean-Hoffman from the Linkedin that links from his company (Actionable Labs) is a real person and the same Dean-Hoffman that is stealing content and running a data company.
+
+\- If you go on his linkedin, under ""Data Scientist - Pennsylvania Department of General Services"" you will find that he mentions ""Actionable Insights"" (the stolen content website) in one of his experiences. Completely absurd.
+
+UPDATE 2: Medium and TDS unfortunately can't do much for me individually as the authors are the ones who own the rights to the articles. TDS will try to reach out to the owner and ask them to take the posts down. I hope they see that their whole website is being copied, which would most likely infringe their TOS.
+
+Please don't comment anything that contains the words ""copyright"", ""infringement"" or related words on her article as it may trigger keyword algorithms that delete copyrighted articles posted to Medium (and thus could have her article deleted). Thank you!
+
+This is his post on reddit: [https://www.reddit.com/user/Dean-Hoffman/comments/gkoxpd/ai\_and\_real\_state\_predicting\_rental\_prices\_in/](https://www.reddit.com/user/Dean-Hoffman/comments/gkoxpd/ai_and_real_state_predicting_rental_prices_in/)
+
+This is the article he stole from her: [https://www.actionableinsights.org/ai-and-real-state-predicting-rental-prices-in-amsterdam/](https://www.actionableinsights.org/ai-and-real-state-predicting-rental-prices-in-amsterdam/)
+
+This is her article, posted on Medium, which has very strict plagiarism protections posted on April 24th: [https://towardsdatascience.com/ai-and-real-state-renting-in-amsterdam-part-1-5fce18238dbc](https://towardsdatascience.com/ai-and-real-state-renting-in-amsterdam-part-1-5fce18238dbc)","A ""Data Science"" company stole my gf's ML project and reposted it as their own. What do I do? Dean Hoffman responds: [https://www.reddit.com/r/datascience/comments/gmirks/my\_apologies\_from\_a\_data\_science\_company\_stole\_my/](https://www.reddit.com/r/datascience/comments/gmirks/my_apologies_from_a_data_science_company_stole_my/)
+
+Hi,
+
+My girlfriend is a 22 year old university student passionate about data science, and she just posted my first article on Medium using Machine-Learning (that took her months of research and coding to put together). Her post only has about 500 views, but to her surprise today a reddit user called [**Dean-Hoffman**](https://www.reddit.com/user/Dean-Hoffman/) **posted a link to his own data science company where he copy-pasted her article.** He didn't contact her about reposting it, didn't give her proper credit and **ridiculously added a ""Contact Data Scientist"" at the end with his name on it**. On the article, he clearly stated he is the author in multiple locations. This is the ""Data Science"" company that links from the article on his website: [https://www.actionablelabs.com/](https://www.actionablelabs.com/)
+
+Apparently the guy Dean Hoffman is the ""founder"" of the company and refers to himself on the About Us as **""offering the highest commitment to excellence, personal integrity, and business ethics.""**
+
+Update: Hey, this is the girlfriend that wrote the article. First of all, thank you all that made the time to reply, research and help me find answers. It's really appreciated.  So far, this is what we know about this person (or people):
+
+\- This website has been stealing hundreds, if not thousands, of data science projects and articles from legitimate data scientists and writers.
+
+\- The stolen content website in definitely bot-operated as the owner posts dozens of articles a day, completely copy+paste, mainly from Medium, TechCrunch and Towards Data Science.
+
+\- It's confirmed that Dean-Hoffman from the Linkedin that links from his company (Actionable Labs) is a real person and the same Dean-Hoffman that is stealing content and running a data company.
+
+\- If you go on his linkedin, under ""Data Scientist - Pennsylvania Department of General Services"" you will find that he mentions ""Actionable Insights"" (the stolen content website) in one of his experiences. Completely absurd.
+
+UPDATE 2: Medium and TDS unfortunately can't do much for me individually as the authors are the ones who own the rights to the articles. TDS will try to reach out to the owner and ask them to take the posts down. I hope they see that their whole website is being copied, which would most likely infringe their TOS.
+
+Please don't comment anything that contains the words ""copyright"", ""infringement"" or related words on her article as it may trigger keyword algorithms that delete copyrighted articles posted to Medium (and thus could have her article deleted). Thank you!
+
+This is his post on reddit: [https://www.reddit.com/user/Dean-Hoffman/comments/gkoxpd/ai\_and\_real\_state\_predicting\_rental\_prices\_in/](https://www.reddit.com/user/Dean-Hoffman/comments/gkoxpd/ai_and_real_state_predicting_rental_prices_in/)
+
+This is the article he stole from her: [https://www.actionableinsights.org/ai-and-real-state-predicting-rental-prices-in-amsterdam/](https://www.actionableinsights.org/ai-and-real-state-predicting-rental-prices-in-amsterdam/)
+
+This is her article, posted on Medium, which has very strict plagiarism protections posted on April 24th: [https://towardsdatascience.com/ai-and-real-state-renting-in-amsterdam-part-1-5fce18238dbc](https://towardsdatascience.com/ai-and-real-state-renting-in-amsterdam-part-1-5fce18238dbc)",a data science company stole my gfs ml project and reposted it as their own what do i do dean hoffman responds hi my girlfriend is a year old university student passionate about data science and she just posted my first article on medium using machinelearning that took her months of research and coding to put together her post only has about views but to her surprise today a reddit user called deanhoffman posted a link to his own data science company where he copypasted her article he didnt contact her about reposting it didnt give her proper credit and ridiculously added a contact data scientist at the end with his name on it on the article he clearly stated he is the author in multiple locations this is the data science company that links from the article on his website apparently the guy dean hoffman is the founder of the company and refers to himself on the about us as offering the highest commitment to excellence personal integrity and business ethics update hey this is the girlfriend that wrote the article first of all thank you all that made the time to reply research and help me find answers its really appreciated so far this is what we know about this person or people this website has been stealing hundreds if not thousands of data science projects and articles from legitimate data scientists and writers the stolen content website in definitely botoperated as the owner posts dozens of articles a day completely copypaste mainly from medium techcrunch and towards data science its confirmed that deanhoffman from the linkedin that links from his company actionable labs is a real person and the same deanhoffman that is stealing content and running a data company if you go on his linkedin under data scientist pennsylvania department of general services you will find that he mentions actionable insights the stolen content website in one of his experiences completely absurd update medium and tds unfortunately cant do much for me individually as the authors are the ones who own the rights to the articles tds will try to reach out to the owner and ask them to take the posts down i hope they see that their whole website is being copied which would most likely infringe their tos please dont comment anything that contains the words copyright infringement or related words on her article as it may trigger keyword algorithms that delete copyrighted articles posted to medium and thus could have her article deleted thank you this is his post on reddit this is the article he stole from her this is her article posted on medium which has very strict plagiarism protections posted on april th,"{'neg': 0.058, 'neu': 0.841, 'pos': 0.101, 'compound': 0.962}",0.962,Positive
+Happy meme Monday,1489,33,1662393088.0,https://i.redd.it/5nxxj1ama2m91.png,,Happy meme Monday ,happy meme monday,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,Positive
+Agree?,1484,55,1671553809.0,https://i.redd.it/q9b3rccof47a1.jpg,,Agree? ,agree,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,Positive
+“I would like to nominate CNN for the worst data visualization of 2022”,1479,88,1652732665.0,https://i.redd.it/zjcqepf8dwz81.jpg,,“I would like to nominate CNN for the worst data visualization of 2022” ,i would like to nominate cnn for the worst data visualization of,"{'neg': 0.263, 'neu': 0.577, 'pos': 0.16, 'compound': -0.3818}",-0.3818,Negative
+Very proud of my CS book collection.,1476,131,1629268445.0,https://i.redd.it/can2b292a2i71.jpg,,Very proud of my CS book collection. ,very proud of my cs book collection,"{'neg': 0.0, 'neu': 0.639, 'pos': 0.361, 'compound': 0.5256}",0.5256,Positive
+Choose your modeler,1468,70,1660035499.0,https://i.redd.it/4fwef9ktjng91.png,,Choose your modeler ,choose your modeler,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Alan Turing is the new face on the British £50 note,1435,93,1616678379.0,https://www.reddit.com/r/unitedkingdom/comments/mct0kf/new_alan_turing_50_note_design_is_revealed/?utm_source=share&utm_medium=ios_app&utm_name=iossmf,,Alan Turing is the new face on the British £50 note ,alan turing is the new face on the british note,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+when I start EDA on a new project,1424,9,1581384043.0,https://i.redd.it/886thyh557g41.jpg,,when I start EDA on a new project ,when i start eda on a new project,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"I just explained recall/precision to a non-DS, and he got it immediately",1414,64,1634882352.0,https://www.reddit.com/r/datascience/comments/qdai89/i_just_explained_recallprecision_to_a_nonds_and/,"Explain it like fishing with a net. You use a wide net, and catch 80 of 100 total fish in a lake. That's 80% recall. But you also get 80 rocks in your net. That means 50% precision, half of the net's contents is junk. You could use a smaller net and target one pocket of the lake where there are lots of fish and no rocks, but you might only get 20 of the fish in order to get 0 rocks. That is 20% recall and 100% precision.
+
+Seriously, it made me so happy since I've butted against this for years. Equations make people's eyes glaze over, but my PM understood this immediately over a voice call, without diagrams or anything.
+
+Also I googled this and found it's a common explanation, but I'd never heard of it in my 4 years working as a DS. ","I just explained recall/precision to a non-DS, and he got it immediately Explain it like fishing with a net. You use a wide net, and catch 80 of 100 total fish in a lake. That's 80% recall. But you also get 80 rocks in your net. That means 50% precision, half of the net's contents is junk. You could use a smaller net and target one pocket of the lake where there are lots of fish and no rocks, but you might only get 20 of the fish in order to get 0 rocks. That is 20% recall and 100% precision.
+
+Seriously, it made me so happy since I've butted against this for years. Equations make people's eyes glaze over, but my PM understood this immediately over a voice call, without diagrams or anything.
+
+Also I googled this and found it's a common explanation, but I'd never heard of it in my 4 years working as a DS. ",i just explained recallprecision to a nonds and he got it immediately explain it like fishing with a net you use a wide net and catch of total fish in a lake thats recall but you also get rocks in your net that means precision half of the nets contents is junk you could use a smaller net and target one pocket of the lake where there are lots of fish and no rocks but you might only get of the fish in order to get rocks that is recall and precision seriously it made me so happy since ive butted against this for years equations make peoples eyes glaze over but my pm understood this immediately over a voice call without diagrams or anything also i googled this and found its a common explanation but id never heard of it in my years working as a ds,"{'neg': 0.033, 'neu': 0.91, 'pos': 0.057, 'compound': 0.6717}",0.6717,Positive
+Data scientist quits her job at Spotify,1390,368,1709037427.0,https://youtu.be/OMI4Wu9wnY0?si=teFkXgTnPmUAuAyU,In summary and basically talks about how she was managing a high priority product at Spotify after 3 years at Spotify. She was the ONLY DATA SCIENTIST working on this project and with pushy stakeholders she was working 14-15 hour days. Frankly this would piss me the fuck off. How the hell does some shit like this even happen? How common is this? For a place like Spotify it sounds quite shocking. How do you manage a “pushy” stakeholder?,Data scientist quits her job at Spotify In summary and basically talks about how she was managing a high priority product at Spotify after 3 years at Spotify. She was the ONLY DATA SCIENTIST working on this project and with pushy stakeholders she was working 14-15 hour days. Frankly this would piss me the fuck off. How the hell does some shit like this even happen? How common is this? For a place like Spotify it sounds quite shocking. How do you manage a “pushy” stakeholder?,data scientist quits her job at spotify in summary and basically talks about how she was managing a high priority product at spotify after years at spotify she was the only data scientist working on this project and with pushy stakeholders she was working hour days frankly this would piss me the fuck off how the hell does some shit like this even happen how common is this for a place like spotify it sounds quite shocking how do you manage a pushy stakeholder,"{'neg': 0.219, 'neu': 0.73, 'pos': 0.051, 'compound': -0.9485}",-0.9485,Negative
+I'll never find an entry level job,1392,205,1637478495.0,https://i.redd.it/uss8ci5rew081.jpg,,I'll never find an entry level job ,ill never find an entry level job,"{'neg': 0.318, 'neu': 0.682, 'pos': 0.0, 'compound': -0.4215}",-0.4215,Negative
+tanh me later,1380,27,1728891744.0,https://i.redd.it/qzjthphseoud1.jpeg,,tanh me later ,tanh me later,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+I created a complete overview of machine learning concepts seen in 27 data science and machine learning interviews,1381,101,1601705416.0,https://www.reddit.com/r/datascience/comments/j4auif/i_created_a_complete_overview_of_machine_learning/,"Hey everyone,
+
+During my last interview cycle, I did 27 machine learning and data science interviews at a bunch of companies (from Google to a \~8-person YC-backed computer vision startup). Afterwards, I wrote an overview of all the concepts that showed up, presented as a series of tutorials along with practice questions at the end of each section.
+
+I hope you find it helpful! [ML Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)","I created a complete overview of machine learning concepts seen in 27 data science and machine learning interviews Hey everyone,
+
+During my last interview cycle, I did 27 machine learning and data science interviews at a bunch of companies (from Google to a \~8-person YC-backed computer vision startup). Afterwards, I wrote an overview of all the concepts that showed up, presented as a series of tutorials along with practice questions at the end of each section.
+
+I hope you find it helpful! [ML Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)",i created a complete overview of machine learning concepts seen in data science and machine learning interviews hey everyone during my last interview cycle i did machine learning and data science interviews at a bunch of companies from google to a person ycbacked computer vision startup afterwards i wrote an overview of all the concepts that showed up presented as a series of tutorials along with practice questions at the end of each section i hope you find it helpful ml primer,"{'neg': 0.0, 'neu': 0.878, 'pos': 0.122, 'compound': 0.8271}",0.8271,Positive
+£19.91/hr for a PhD Data scientist 😭😂😂,1371,331,1650289752.0,https://i.redd.it/r8fgcc27lau81.jpg,,£19.91/hr for a PhD Data scientist 😭😂😂 ,hr for a phd data scientist,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Based on a true story,1365,32,1626068158.0,https://i.redd.it/mtyo342oxpa71.png,,Based on a true story ,based on a true story,"{'neg': 0.0, 'neu': 0.517, 'pos': 0.483, 'compound': 0.4215}",0.4215,Positive
+Tired of everyone becoming an AI Expert all of a sudden,1364,106,1746157790.0,https://www.reddit.com/r/datascience/comments/1kcrsyn/tired_of_everyone_becoming_an_ai_expert_all_of_a/,"Literally every person who can type prompts into an LLM is now an AI consultant/expert. I’m sick of it, today a sales manager literally said ‘oh I can get Gemini to make my charts from excel directly with one prompt so ig we no longer require Data Scientists and their support hehe’
+
+These dumbos think making basic level charts equals DS work. Not even data analytics, literally data science? 
+
+I’m sick of it. I hope each one of yall cause a data leak, breach the confidentiality by voluntarily giving private info to Gemini/OpenAi and finally create immense tech debt by developing your vibe coded projects.
+
+Rant over ","Tired of everyone becoming an AI Expert all of a sudden Literally every person who can type prompts into an LLM is now an AI consultant/expert. I’m sick of it, today a sales manager literally said ‘oh I can get Gemini to make my charts from excel directly with one prompt so ig we no longer require Data Scientists and their support hehe’
+
+These dumbos think making basic level charts equals DS work. Not even data analytics, literally data science? 
+
+I’m sick of it. I hope each one of yall cause a data leak, breach the confidentiality by voluntarily giving private info to Gemini/OpenAi and finally create immense tech debt by developing your vibe coded projects.
+
+Rant over ",tired of everyone becoming an ai expert all of a sudden literally every person who can type prompts into an llm is now an ai consultantexpert im sick of it today a sales manager literally said oh i can get gemini to make my charts from excel directly with one prompt so ig we no longer require data scientists and their support hehe these dumbos think making basic level charts equals ds work not even data analytics literally data science im sick of it i hope each one of yall cause a data leak breach the confidentiality by voluntarily giving private info to geminiopenai and finally create immense tech debt by developing your vibe coded projects rant over,"{'neg': 0.144, 'neu': 0.757, 'pos': 0.098, 'compound': -0.7322}",-0.7322,Negative
+Results of my first data science job search. Some insight in the comments.,1355,150,1653666340.0,https://i.redd.it/9efr8hatg1291.png,,Results of my first data science job search. Some insight in the comments. ,results of my first data science job search some insight in the comments,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+HBR says that data cleaning is not time consuming to acquire and not useful 🤣😆😂,1351,282,1640200517.0,https://i.redd.it/a57zypsj85781.png,,HBR says that data cleaning is not time consuming to acquire and not useful 🤣😆😂 ,hbr says that data cleaning is not time consuming to acquire and not useful,"{'neg': 0.156, 'neu': 0.844, 'pos': 0.0, 'compound': -0.3412}",-0.3412,Negative
+me picking a learning rate for my model,1314,29,1648480088.0,https://v.redd.it/heh07w3145q81,,me picking a learning rate for my model ,me picking a learning rate for my model,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Data = Oil,1312,78,1666631018.0,https://i.redd.it/d8xfyn96csv91.jpg,,Data = Oil ,data oil,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"The Key Word in Data Science is Science, not Data",1307,155,1629388865.0,https://www.reddit.com/r/datascience/comments/p7hpd9/the_key_word_in_data_science_is_science_not_data/,"I know reddit doesn't represent real life, but just look at the titles of this sub. They're all about tools, code languages/packages, and algorithms. I think to most aspiring data scientists, that's how they see the profession. You're given a tech stack, some data, and your goal is to apply x tool/algorithm to y data. My argument is this is only going to work at super junior levels, and I believe it's the reason why there's a huge oversupply of junior data scientists but teams still can't find competent seniors.  
+
+
+As another experiment, just head over to r/dataisbeautiful right now. You'll see a ton of different techs used to generate some decent and some awful visualizations. All of those people were able to access, clean, and plot data. There's no shortage of people who can do that. But what you'll notice if you read that sub, is there's a huge lack of people thinking critically about the data they're working with, and that's the science aspect.
+
+&#x200B;
+
+I feel like every week there's a new topic here on how long until data scientists are obsolete. I don't think data scientists are getting less valuable, but people who can just use tool x to leverage data y are. Why would I hire a senior data scientist to create a dashboard when I can teach an intern tableau and get 95% of the same thing? Whether it's recognizing Simpson's paradox, knowing when to keep/stop digging into research questions, figuring out when gathering more data is necessary, knowing how to communicate findings in ways that make an impact, the science part of data science is by far the most valuable. Some people call them soft skills, but I'm not a huge fan of the term. It's science. Unfortunately these are the toughest skills to learn and also the toughest skills to interview for, so I don't suspect you'll see companies steering away from technical questions in interviews any time soon. But mastering the science aspect of data science is I believe the best way to make yourself extremely valuable.","The Key Word in Data Science is Science, not Data I know reddit doesn't represent real life, but just look at the titles of this sub. They're all about tools, code languages/packages, and algorithms. I think to most aspiring data scientists, that's how they see the profession. You're given a tech stack, some data, and your goal is to apply x tool/algorithm to y data. My argument is this is only going to work at super junior levels, and I believe it's the reason why there's a huge oversupply of junior data scientists but teams still can't find competent seniors.  
+
+
+As another experiment, just head over to r/dataisbeautiful right now. You'll see a ton of different techs used to generate some decent and some awful visualizations. All of those people were able to access, clean, and plot data. There's no shortage of people who can do that. But what you'll notice if you read that sub, is there's a huge lack of people thinking critically about the data they're working with, and that's the science aspect.
+
+&#x200B;
+
+I feel like every week there's a new topic here on how long until data scientists are obsolete. I don't think data scientists are getting less valuable, but people who can just use tool x to leverage data y are. Why would I hire a senior data scientist to create a dashboard when I can teach an intern tableau and get 95% of the same thing? Whether it's recognizing Simpson's paradox, knowing when to keep/stop digging into research questions, figuring out when gathering more data is necessary, knowing how to communicate findings in ways that make an impact, the science part of data science is by far the most valuable. Some people call them soft skills, but I'm not a huge fan of the term. It's science. Unfortunately these are the toughest skills to learn and also the toughest skills to interview for, so I don't suspect you'll see companies steering away from technical questions in interviews any time soon. But mastering the science aspect of data science is I believe the best way to make yourself extremely valuable.",the key word in data science is science not data i know reddit doesnt represent real life but just look at the titles of this sub theyre all about tools code languagespackages and algorithms i think to most aspiring data scientists thats how they see the profession youre given a tech stack some data and your goal is to apply x toolalgorithm to y data my argument is this is only going to work at super junior levels and i believe its the reason why theres a huge oversupply of junior data scientists but teams still cant find competent seniors as another experiment just head over to rdataisbeautiful right now youll see a ton of different techs used to generate some decent and some awful visualizations all of those people were able to access clean and plot data theres no shortage of people who can do that but what youll notice if you read that sub is theres a huge lack of people thinking critically about the data theyre working with and thats the science aspect xb i feel like every week theres a new topic here on how long until data scientists are obsolete i dont think data scientists are getting less valuable but people who can just use tool x to leverage data y are why would i hire a senior data scientist to create a dashboard when i can teach an intern tableau and get of the same thing whether its recognizing simpsons paradox knowing when to keepstop digging into research questions figuring out when gathering more data is necessary knowing how to communicate findings in ways that make an impact the science part of data science is by far the most valuable some people call them soft skills but im not a huge fan of the term its science unfortunately these are the toughest skills to learn and also the toughest skills to interview for so i dont suspect youll see companies steering away from technical questions in interviews any time soon but mastering the science aspect of data science is i believe the best way to make yourself extremely valuable,"{'neg': 0.08, 'neu': 0.807, 'pos': 0.113, 'compound': 0.9555}",0.9555,Positive
+Congrats to us I guess?,1301,50,1657579475.0,https://i.imgur.com/H0lYnaj.jpg,,Congrats to us I guess? ,congrats to us i guess,"{'neg': 0.0, 'neu': 0.469, 'pos': 0.531, 'compound': 0.5267}",0.5267,Positive
+We've all been there.,1298,48,1581348458.0,https://i.redd.it/03756y0874g41.jpg,,We've all been there. ,weve all been there,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+It's important work.,1286,50,1743431151.0,https://i.redd.it/9mcl3buvb1se1.png,,It's important work. ,its important work,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.2023}",0.2023,Positive
+How much real is it?? 😂😅,1280,50,1574550646.0,https://i.redd.it/jhg8s6eypi041.png,,How much real is it?? 😂😅 ,how much real is it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+I found a research paper that is almost entirely my copied-and-pasted Kaggle work?,1272,111,1618200565.0,https://www.reddit.com/r/datascience/comments/mp6ink/i_found_a_research_paper_that_is_almost_entirely/,"I did some work a couple of years ago on W.H.O. suicide statistics. Here's my [Kaggle project](https://www.kaggle.com/lmorgan95/r-suicide-rates-in-depth-stats-insights) from April 2019, and here's the [research paper](https://www.researchgate.net/publication/338479643_Analysis_of_Mental_Health_Program_based_on_Suicide_Rate_Trends_1985_to_2015) from January 2020.
+
+It was immediately clear from me seeing the graphs that the work was the same, but most of the findings are entire paragraphs lifted from my work. This isn't the first time this has happened but it's probably the most egregious. My work is obviously not mentioned in the references.
+
+Is there anything I can actually do here? I don't care about people using or adapting my public work as long as credit is given, but copying most of it and giving no credit really isn't cool.
+
+**Edit:** Thanks for all the help and advice. I contacted the universities of the authors this morning (no response yet... and I can't help but feel like I'm not going to get one)","I found a research paper that is almost entirely my copied-and-pasted Kaggle work? I did some work a couple of years ago on W.H.O. suicide statistics. Here's my [Kaggle project](https://www.kaggle.com/lmorgan95/r-suicide-rates-in-depth-stats-insights) from April 2019, and here's the [research paper](https://www.researchgate.net/publication/338479643_Analysis_of_Mental_Health_Program_based_on_Suicide_Rate_Trends_1985_to_2015) from January 2020.
+
+It was immediately clear from me seeing the graphs that the work was the same, but most of the findings are entire paragraphs lifted from my work. This isn't the first time this has happened but it's probably the most egregious. My work is obviously not mentioned in the references.
+
+Is there anything I can actually do here? I don't care about people using or adapting my public work as long as credit is given, but copying most of it and giving no credit really isn't cool.
+
+**Edit:** Thanks for all the help and advice. I contacted the universities of the authors this morning (no response yet... and I can't help but feel like I'm not going to get one)",i found a research paper that is almost entirely my copiedandpasted kaggle work i did some work a couple of years ago on who suicide statistics heres my kaggle project from april and heres the research paper from january it was immediately clear from me seeing the graphs that the work was the same but most of the findings are entire paragraphs lifted from my work this isnt the first time this has happened but its probably the most egregious my work is obviously not mentioned in the references is there anything i can actually do here i dont care about people using or adapting my public work as long as credit is given but copying most of it and giving no credit really isnt cool edit thanks for all the help and advice i contacted the universities of the authors this morning no response yet and i cant help but feel like im not going to get one,"{'neg': 0.1, 'neu': 0.776, 'pos': 0.124, 'compound': 0.6472}",0.6472,Positive
+"PYTHON CHARTS: a new visualization website feaaturing matplotlib, seaborn and plotly [Over 500 charts with reproducible code]",1258,63,1667167934.0,https://www.reddit.com/r/datascience/comments/yhrlpj/python_charts_a_new_visualization_website/,"I've recently launched ""PYTHON CHARTS"", a website that provides lots of matplotlib, seaborn and plotly easy-to-follow tutorials with reproducible code, both in English and Spanish.  
+
+
+Link: [https://python-charts.com/](https://python-charts.com/)  
+Link (spanish): [https://python-charts.com/es/](https://python-charts.com/es/)
+
+&#x200B;
+
+https://preview.redd.it/v4kwjk5hn0x91.png?width=939&format=png&auto=webp&s=e2b92d7db2d6c63ce4bff55dabe34e96236d646e
+
+The posts are filterable based on the chart type and library:
+
+https://preview.redd.it/4tfvn5prn0x91.png?width=898&format=png&auto=webp&s=e7cba3f1bda4ec05fcf7f1a21489d1811c3e4a30
+
+Each tutorial will guide the reader step by step from a basic to more styled chart:
+
+https://preview.redd.it/yrsnxpdwn0x91.png?width=694&format=png&auto=webp&s=ea772dda73588bbf87326e8ef384d002e0355f76
+
+The site also provides some color tools to copy matplotlib colors both in HEX or by its name. You can also convert HEX to RGB in the page:
+
+https://preview.redd.it/hxhdctl2o0x91.png?width=890&format=png&auto=webp&s=5cc280970d2112986d5ba35205e6aa6f224689e5
+
+&#x200B;
+
+* I created this website on my spare time for all those finding the original docs difficult to follow.
+* This site has its equivalent in R: [https://r-charts.com/](https://r-charts.com/)
+
+Hope you like it!","PYTHON CHARTS: a new visualization website feaaturing matplotlib, seaborn and plotly [Over 500 charts with reproducible code] I've recently launched ""PYTHON CHARTS"", a website that provides lots of matplotlib, seaborn and plotly easy-to-follow tutorials with reproducible code, both in English and Spanish.  
+
+
+Link: [https://python-charts.com/](https://python-charts.com/)  
+Link (spanish): [https://python-charts.com/es/](https://python-charts.com/es/)
+
+&#x200B;
+
+https://preview.redd.it/v4kwjk5hn0x91.png?width=939&format=png&auto=webp&s=e2b92d7db2d6c63ce4bff55dabe34e96236d646e
+
+The posts are filterable based on the chart type and library:
+
+https://preview.redd.it/4tfvn5prn0x91.png?width=898&format=png&auto=webp&s=e7cba3f1bda4ec05fcf7f1a21489d1811c3e4a30
+
+Each tutorial will guide the reader step by step from a basic to more styled chart:
+
+https://preview.redd.it/yrsnxpdwn0x91.png?width=694&format=png&auto=webp&s=ea772dda73588bbf87326e8ef384d002e0355f76
+
+The site also provides some color tools to copy matplotlib colors both in HEX or by its name. You can also convert HEX to RGB in the page:
+
+https://preview.redd.it/hxhdctl2o0x91.png?width=890&format=png&auto=webp&s=5cc280970d2112986d5ba35205e6aa6f224689e5
+
+&#x200B;
+
+* I created this website on my spare time for all those finding the original docs difficult to follow.
+* This site has its equivalent in R: [https://r-charts.com/](https://r-charts.com/)
+
+Hope you like it!",python charts a new visualization website feaaturing matplotlib seaborn and plotly over charts with reproducible code ive recently launched python charts a website that provides lots of matplotlib seaborn and plotly easytofollow tutorials with reproducible code both in english and spanish link link spanish xb the posts are filterable based on the chart type and library each tutorial will guide the reader step by step from a basic to more styled chart the site also provides some color tools to copy matplotlib colors both in hex or by its name you can also convert hex to rgb in the page xb i created this website on my spare time for all those finding the original docs difficult to follow this site has its equivalent in r hope you like it,"{'neg': 0.019, 'neu': 0.897, 'pos': 0.084, 'compound': 0.7717}",0.7717,Positive
+"""Hey, you have a second for a quick call? It will just take a minute""",1235,43,1742822691.0,https://i.redd.it/dz5jp9cm2nqe1.png,,"""Hey, you have a second for a quick call? It will just take a minute"" ",hey you have a second for a quick call it will just take a minute,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+XKCD Comic does machine learning,1236,74,1689596507.0,https://i.redd.it/wivgvxmvpicb1.jpg,,XKCD Comic does machine learning ,xkcd comic does machine learning,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"Hi! I just expanded the Data Science Cheatsheet to five pages, added material on Time Series, Statistics, and A/B Testing, and landed my first full-time job",1229,61,1624197509.0,https://www.reddit.com/r/datascience/comments/o468ms/hi_i_just_expanded_the_data_science_cheatsheet_to/,"Hey all! You might remember me from the Data Science Cheatsheet I posted a few months ago ([here](https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/)). The support from that was incredible, and I thought I’d share an update.
+
+Since then, I’ve gone through a dozen interviews, ranging from FANG to startups to MBB, and updated the cheatsheet with topics I’ve seen covered in actual interviews.
+
+Improvements include:
+
+* Added Time Series
+* Added Statistics
+* Added A/B Testing
+* Improved Distribution Section
+* Added Multi-class SVM
+* Added HMM
+* Miscellaneous Section
+* And a bunch of other small changes scattered throughout!
+
+These topics, along with the material covered previously, are all condensed in a convenient five-page Data Science Cheatsheet, found [here](https://github.com/aaronwangy/Data-Science-Cheatsheet).
+
+I’ll be heading to a FANG company as a DS after graduation, and I hope this cheatsheet is helpful to those on the job hunt or just looking to brush up on machine learning concepts. Feel free to leave any suggestions and star/save the repo for reference and future updates!
+
+Cheers, AW
+
+Github Repo: [https://github.com/aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)","Hi! I just expanded the Data Science Cheatsheet to five pages, added material on Time Series, Statistics, and A/B Testing, and landed my first full-time job Hey all! You might remember me from the Data Science Cheatsheet I posted a few months ago ([here](https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/)). The support from that was incredible, and I thought I’d share an update.
+
+Since then, I’ve gone through a dozen interviews, ranging from FANG to startups to MBB, and updated the cheatsheet with topics I’ve seen covered in actual interviews.
+
+Improvements include:
+
+* Added Time Series
+* Added Statistics
+* Added A/B Testing
+* Improved Distribution Section
+* Added Multi-class SVM
+* Added HMM
+* Miscellaneous Section
+* And a bunch of other small changes scattered throughout!
+
+These topics, along with the material covered previously, are all condensed in a convenient five-page Data Science Cheatsheet, found [here](https://github.com/aaronwangy/Data-Science-Cheatsheet).
+
+I’ll be heading to a FANG company as a DS after graduation, and I hope this cheatsheet is helpful to those on the job hunt or just looking to brush up on machine learning concepts. Feel free to leave any suggestions and star/save the repo for reference and future updates!
+
+Cheers, AW
+
+Github Repo: [https://github.com/aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)",hi i just expanded the data science cheatsheet to five pages added material on time series statistics and ab testing and landed my first fulltime job hey all you might remember me from the data science cheatsheet i posted a few months ago here the support from that was incredible and i thought id share an update since then ive gone through a dozen interviews ranging from fang to startups to mbb and updated the cheatsheet with topics ive seen covered in actual interviews improvements include added time series added statistics added ab testing improved distribution section added multiclass svm added hmm miscellaneous section and a bunch of other small changes scattered throughout these topics along with the material covered previously are all condensed in a convenient fivepage data science cheatsheet found here ill be heading to a fang company as a ds after graduation and i hope this cheatsheet is helpful to those on the job hunt or just looking to brush up on machine learning concepts feel free to leave any suggestions and starsave the repo for reference and future updates cheers aw github repo,"{'neg': 0.021, 'neu': 0.863, 'pos': 0.116, 'compound': 0.9545}",0.9545,Positive
