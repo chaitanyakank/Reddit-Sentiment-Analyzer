@@ -38,6 +38,8 @@ A simple Reddit sentiment analysis tool that fetches top posts from the 'datasci
 - `praw`
 - `matplotlib`
 
+![Sentiment Plot](Sentiment_of_Reddit_Posts.png)
+
 ## Contributing:
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
